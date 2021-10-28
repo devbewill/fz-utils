@@ -1,0 +1,101 @@
+[
+  {
+    "part": "LM",
+    "section": "022",
+    "column": "001",
+    "description": "Codice attività",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "022",
+    "column": "002",
+    "description": "Coefficiente redditività",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "022",
+    "column": "003",
+    "description": "Componenti positivi",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "022",
+    "column": "004",
+    "description": "Diritto d'autore e correlati",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "022",
+    "column": "005",
+    "description": "Componenti positivi",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "034",
+    "column": "001",
+    "description": "Artigiani e commercianti",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "034",
+    "column": "003",
+    "description": "Totale reddito attività ",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "035",
+    "column": "001",
+    "description": "Contributi previdenziali assistenziali",
+    "type": "NUM"
+  },
+
+  {
+    "part": "LM",
+    "section": "035",
+    "column": "002",
+    "description": "Totale Contributi previdenziali",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "036",
+    "column": "001",
+    "description": "Reddito netto",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "038",
+    "column": "001",
+    "description": "Reddito al netto delle perdite",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "039",
+    "column": "001",
+    "description": "Imposta sostitutiva",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "042",
+    "column": "001",
+    "description": "Differenza",
+    "type": "NUM"
+  },
+  {
+    "part": "LM",
+    "section": "046",
+    "column": "001",
+    "description": "Imposta a debito",
+    "type": "NUM"
+  }
+]

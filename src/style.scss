@@ -1,0 +1,207 @@
+body {
+  font-kerning: normal;
+  font-feature-settings: "kern", "liga", "clig", "calt";
+  font-family: -apple-system, BlinkMacSystemFont, Helvetica Neue, sans-serif;
+  text-rendering: optimizeLegibility;
+  font-weight: bold;
+}
+
+.App {
+  padding-top: 2em;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+h3 {
+  padding: 0.2em;
+  text-transform: uppercase;
+  span {
+    display: inline-block;
+    padding: 0 0.5em;
+    color: purple;
+  }
+}
+
+table {
+  border-spacing: 0.5rem;
+  margin: 0 auto;
+  width: 100%;
+
+  thead {
+    font-size: 0.8rem;
+    background: #000;
+    color: #fff;
+    text-align: center;
+  }
+
+  td {
+    font-size: 0.8em;
+    padding: 0.5rem;
+    border: 1px solid #999;
+
+    .dipendenza {
+      display: block;
+      color: red;
+    }
+  }
+}
+
+.selector {
+  position: fixed;
+  top: 0;
+
+  button {
+    background: #6f00ff;
+    border: 0;
+    color: #ffd400;
+    font-weight: 500;
+    margin-left: 5px;
+    padding: 2px 5px;
+  }
+}
+
+// .counter {
+//   display: flex;
+//   justify-content: space-around;
+
+//   p {
+//     font-weight: 800;
+//   }
+// }
+
+/* #######################
+HOME
+########################## */
+.home {
+  background: #ce9dfb;
+  font-weight: 400;
+  min-height: 100vh;
+  a {
+    display: inline-block;
+    margin: 0 3px;
+  }
+
+  h2 {
+    font-size: 1.2rem;
+    font-weight: bold;
+  }
+
+  .listItem {
+    padding: 5em;
+    display: flex;
+    align-items: stretch;
+
+    .item {
+      padding: 2em;
+      background: #fff;
+      margin: 1em;
+    }
+  }
+}
+
+/* #######################
+PARSER QUADRI
+########################## */
+
+.parserQuadri {
+  .tot {
+    display: none;
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 6vw;
+    background: rgb(191, 112, 255);
+    color: #fff;
+    padding: 1em;
+
+    p {
+      margin: 0;
+    }
+  }
+}
+
+/* #######################
+FORM GENERATOR
+########################## */
+
+.formGenerator {
+  padding: 0 20vw;
+  background: #dfd2fd;
+  margin: 0 auto;
+
+  .riga {
+    display: flex;
+    align-items: flex-end;
+    padding: 5px 0;
+    border-bottom: 1px solid #000;
+
+    p {
+      margin: 0;
+      margin-right: 20px;
+      &.amount {
+        width: 80%;
+        display: inline-block;
+      }
+    }
+
+    .row {
+      width: 100%;
+
+      .desc {
+        display: block;
+        font-size: 11px;
+        width: 100%;
+        white-space: nowrap;
+        overflow: hidden;
+      }
+      .inner {
+        background: #fff;
+        color: #000;
+        padding: 5px 2px 3px;
+        text-align: right;
+
+        .campo {
+          font-size: 10px;
+          float: left;
+          color: #999;
+        }
+      }
+    }
+  }
+}
+
+/* #######################
+TROVA DIPENDENZE
+########################## */
+
+.trovaDipendenze {
+  .double {
+    background: #fa7ca2;
+  }
+
+  .easy {
+    background: #ffe3e8;
+  }
+
+  .strong {
+    background: #fcc4d4;
+  }
+
+  .tot {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 8vw;
+    background: rgb(191, 112, 255);
+    color: #fff;
+    padding: 1em;
+
+    p {
+      margin: 0;
+    }
+  }
+}
