@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useEffect } from "react";
 import data from "./data";
 
 export const TrovaDipendenze = () => {
@@ -46,7 +46,7 @@ export const TrovaDipendenze = () => {
               )
             } else if (Array.isArray(easymatch)) {
               b++;
-              var easyChanged = newArr.filter((quadro) => quadro.field === easymatch[0] );
+               easyChanged = newArr.filter((quadro) => quadro.field === easymatch[0] );
               return (
                 <Easycheck
                   count={b}
@@ -59,7 +59,7 @@ export const TrovaDipendenze = () => {
             } else if (Array.isArray(strongmatch)) {
               c++;
 
-              var strongChanged = newArr.filter((quadro) => quadro.field === strongmatch[0] );
+               strongChanged = newArr.filter((quadro) => quadro.field === strongmatch[0] );
               return (
                 <Strongcheck
                   count={c}

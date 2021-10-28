@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 export const Home = () => {
   return (
@@ -10,6 +10,7 @@ export const Home = () => {
             Conversione in json delle regole sui campi del
             <a
               target="_blank"
+              rel="noreferrer"
               href="https://drive.google.com/file/d/1GJw5mz1NomnGf3EewcDB4UMYYwBzXJWC/view?usp=sharing"
             >
               manuale tecnico
