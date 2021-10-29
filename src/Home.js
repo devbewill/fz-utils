@@ -3,6 +3,7 @@ import React from "react";
 export const Home = () => {
   return (
     <div className="home">
+      <h1> WIP</h1>
       <div className="listItem">
         <div className="item">
           <h2>Manuale tecnico</h2>
