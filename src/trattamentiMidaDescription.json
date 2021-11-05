@@ -1,0 +1,262 @@
+[
+  {
+    "code": "CAA00",
+    "description": "IRPEF"
+  },
+  {
+    "code": "CAA01",
+    "description": "INPS"
+  },
+  {
+    "code": "CAA02",
+    "description": "IVS titolare commerciante"
+  },
+  {
+    "code": "CAA03",
+    "description": "IVS 1°familiare commerciante"
+  },
+  {
+    "code": "CAA04",
+    "description": "IVS 2°familiare commerciante"
+  },
+  {
+    "code": "CAA05",
+    "description": "IVS 3°familiare commerciante"
+  },
+  {
+    "code": "CAA06",
+    "description": "IVS 4°familiare commerciante"
+  },
+  {
+    "code": "CAA07",
+    "description": "IVS 5°familiare commerciante"
+  },
+  {
+    "code": "CAA08",
+    "description": "IVS titolare artigiano"
+  },
+  {
+    "code": "CAA09",
+    "description": "IVS 1°familiare artigiano"
+  },
+  {
+    "code": "CAA10",
+    "description": "IVS 2°familiare artigiano"
+  },
+  {
+    "code": "CAA11",
+    "description": "IVS 3°familiare artigiano"
+  },
+  {
+    "code": "CAA12",
+    "description": "IVS 4°familiare artigiano"
+  },
+  {
+    "code": "CAA13",
+    "description": "IVS 5°familiare artigiano"
+  },
+  {
+    "code": "CAA14",
+    "description": "LM"
+  },
+  {
+    "code": "CAA15",
+    "description": "Tassa etica"
+  },
+  {
+    "code": "CAA16",
+    "description": "Cedolare secca"
+  },
+  {
+    "code": "CAA17",
+    "description": "Immobili all'estero (IVIE)"
+  },
+  {
+    "code": "CAA18",
+    "description": "Attività finanziarie all'estero (IVAFE)"
+  },
+  {
+    "code": "CAA19",
+    "description": "Addizionale comunale"
+  },
+  {
+    "code": "CAC00",
+    "description": "IRPEF"
+  },
+  {
+    "code": "CAC01",
+    "description": "Addizionale regionale"
+  },
+  {
+    "code": "CAC02",
+    "description": "Addizionale comunale"
+  },
+  {
+    "code": "CAC03",
+    "description": "IVA"
+  },
+  {
+    "code": "CAC04",
+    "description": "IRAP"
+  },
+  {
+    "code": "CAC05",
+    "description": "INPS"
+  },
+  {
+    "code": "CAC06",
+    "description": "Cedolare secca"
+  },
+  {
+    "code": "CAC07",
+    "description": "RC4 Imposta sostitutiva premi e welfare"
+  },
+  {
+    "code": "CAC08",
+    "description": "RM Redditi capitale estero (da RX7)"
+  },
+  {
+    "code": "CAC09",
+    "description": "RM redditi di capitale (da RX8)"
+  },
+  {
+    "code": "CAC10",
+    "description": "RM depositi garanzia (da RX9)"
+  },
+  {
+    "code": "CAC11",
+    "description": "RM rivalutazione TFR (da RX10)"
+  },
+  {
+    "code": "CAC12",
+    "description": "RM acconto tassazione separata (RX12)"
+  },
+  {
+    "code": "CAC13",
+    "description": "RM riallineamento valori fiscali (RX13)"
+  },
+  {
+    "code": "CAC14",
+    "description": "RM bonus stock option (da RX14)"
+  },
+  {
+    "code": "CAC15",
+    "description": "RM partecipazioni estere (da RX15)"
+  },
+  {
+    "code": "CAC16",
+    "description": "RM pignoramento (da RX16)"
+  },
+  {
+    "code": "CAC17",
+    "description": "RM noleggio barche (da RX17)"
+  },
+  {
+    "code": "CAC18",
+    "description": "RM - Lezioni private (da RX18)"
+  },
+  {
+    "code": "CAC19",
+    "description": "RM - Sez. XVIII (da RX19)"
+  },
+  {
+    "code": "CAC20",
+    "description": "RT sezione VI (da RX20)"
+  },
+  {
+    "code": "CAC21",
+    "description": "RT sezione I (da RX20)"
+  },
+  {
+    "code": "CAC22",
+    "description": "RT sezione II (da RX20)"
+  },
+  {
+    "code": "CAC23",
+    "description": "IVIE"
+  },
+  {
+    "code": "CAC24",
+    "description": "IVAFE"
+  },
+  {
+    "code": "CAC25",
+    "description": "LM"
+  },
+  {
+    "code": "CAC26",
+    "description": "RQ sezione I - conferimenti caf"
+  },
+  {
+    "code": "CAC27",
+    "description": "RQ sezione III - conferimenti SIIQ"
+  },
+  {
+    "code": "CAC28",
+    "description": "RQ sezione IV - deduzioni extracontabili"
+  },
+  {
+    "code": "CAC29",
+    "description": "Tassa etica"
+  },
+  {
+    "code": "CAC30",
+    "description": "RQ sezione XXII"
+  },
+  {
+    "code": "CAC31",
+    "description": "RQ sezione XXII - A e B"
+  },
+  {
+    "code": "CAC32",
+    "description": "RQ - Affrancamento"
+  },
+  {
+    "code": "CAC33",
+    "description": "IVS titolare commerciante"
+  },
+  {
+    "code": "CAC34",
+    "description": "IVS 1°familiare commerciante"
+  },
+  {
+    "code": "CAC35",
+    "description": "IVS 2°familiare commerciante"
+  },
+  {
+    "code": "CAC36",
+    "description": "IVS 3°familiare commerciante"
+  },
+  {
+    "code": "CAC37",
+    "description": "IVS 4°familiare commerciante"
+  },
+  {
+    "code": "CAC38",
+    "description": "IVS 5°familiare commerciante"
+  },
+  {
+    "code": "CAC39",
+    "description": "IVS titolare artigiano"
+  },
+  {
+    "code": "CAC40",
+    "description": "IVS 1°familiare artigiano"
+  },
+  {
+    "code": "CAC41",
+    "description": "IVS 2°familiare artigiano"
+  },
+  {
+    "code": "CAC42",
+    "description": "IVS 3°familiare artigiano"
+  },
+  {
+    "code": "CAC43",
+    "description": "IVS 4°familiare artigiano"
+  },
+  {
+    "code": "CAC44",
+    "description": "IVS 5°familiare artigiano"
+  }
+]
