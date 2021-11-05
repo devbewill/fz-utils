@@ -10,7 +10,7 @@ export const TrattamentiMida = () => {
 
   useEffect(() => {}, []);
 
-  const merged = [...[fiscalElements, fiscalElementsData].reduce((m, a) => (a.forEach(o => m.has(o.code) && Object.assign(m.get(o.code), o) || m.set(o.code, o)), m), new Map).values()];
+  const merged = [...[fiscalElements, fiscalElementsData].reduce((obj, acc) => (acc.forEach(o => obj.has(o.code) && Object.assign(obj.get(o.code), o) || obj.set(o.code, o)), obj), new Map).values()]
 
   return (
     <>
@@ -26,32 +26,6 @@ export const TrattamentiMida = () => {
           <tbody>
             {merged.map((item, i) => {
               const { code, value, description } = item;
-              console.log(code.slice(0, 2));
-              switch (code.slice(0, 2)) {
-                case "FA":
-                  label = "Familiari";
-                  break;
-                case "DC":
-                  label = "Dati cliente";
-                  break;
-                case "CA":
-                  label = "Crediti Acconti";
-                  break;
-                case "RC":
-                  label = "Lavoro Dipendente";
-                  break;
-                case "RG":
-                  label = "Semplificati";
-                  break;
-                case "SC":
-                  label = "Scelte Utente";
-                  break;
-                case "LM":
-                  label = "Forfettario";
-                  break;
-                default:
-                  label = "";
-              }
 
               return (
                 <tr key={i}>

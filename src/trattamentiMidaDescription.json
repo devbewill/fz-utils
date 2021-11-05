@@ -258,5 +258,2437 @@
   {
     "code": "CAC44",
     "description": "IVS 5°familiare artigiano"
+  },
+  {
+    "code": "LM20",
+    "description": "0 = Non compila nessuna delle sezioni, 1 = Forfetario Impresa; 2=Forfetario Autonomo, 3=Forfetario Impresa familiare, 4 = Minimo Impresa, 5 = Minimo = Autonomo, 6 = Minimo Impresa familiare. Codice attività: vuoto. Un soggetto per l'importazione automatica può essere solo forfetario o minimo."
+  },
+  {
+    "code": "LM21.3",
+    "description": "Se compilato e pari a 1 significa Nuova attività (art.1, comma 65). Codice attività: vuoto"
+  },
+  {
+    "code": "LM34.1",
+    "description": "Reddito lordo - Artigiani e commercianti"
+  },
+  {
+    "code": "-",
+    "description": "Reddito lordo - Gestione separata autonomi (art. 2 c. 26 L. 335/95)"
+  },
+  {
+    "code": "LM35.1",
+    "description": "Contributi previdenziali e assistenziali - versati"
+  },
+  {
+    "code": "LM37.1",
+    "description": "Perdite pregresse - Artigiani e commercianti"
+  },
+  {
+    "code": "LM37.2",
+    "description": "Perdite pregresse - Gestione separata autonomi"
+  },
+  {
+    "code": "LM40.1",
+    "description": "Crediti imposta - Riacquisto prima casa"
+  },
+  {
+    "code": "LM40.2",
+    "description": "Crediti imposta - Redditi prodotti all'estero"
+  },
+  {
+    "code": "LM40.3",
+    "description": "Crediti imposta - Fondi comuni"
+  },
+  {
+    "code": "LM40.4",
+    "description": "Crediti d'imposta per altri immobili - Sisma Abruzzo"
+  },
+  {
+    "code": "LM40.5",
+    "description": "Credito d'imposta per abitazione principale - Sisma Abruzzo"
+  },
+  {
+    "code": "LM40.6",
+    "description": "Reintegro anticipazioni fondi pensione"
+  },
+  {
+    "code": "LM40.7",
+    "description": "Mediazioni"
+  },
+  {
+    "code": "LM40.8",
+    "description": "Negoziazioni ed arbitrato"
+  },
+  {
+    "code": "LM40.9",
+    "description": "Cultura"
+  },
+  {
+    "code": "LM40.10",
+    "description": "Scuola"
+  },
+  {
+    "code": "LM40.11",
+    "description": "Videosorveglianza"
+  },
+  {
+    "code": "LM40.12",
+    "description": "Sport Bonus"
+  },
+  {
+    "code": "LM40.13",
+    "description": "Bonifica ambientale"
+  },
+  {
+    "code": "LM40.14",
+    "description": "Monopattini e serv. mob. elettr."
+  },
+  {
+    "code": "LM40.15",
+    "description": "Crediti d’imposta artt. 28 e 125 DL 34/2020"
+  },
+  {
+    "code": "LM40.16",
+    "description": "Crediti imposta - Altri crediti d'imposta ATTENZIONE: rinominato, prima del cambio delle specifiche del 28 maggio 2021 questo era il .15"
+  },
+  {
+    "code": "LM41.1",
+    "description": "Ritenute consorzio"
+  },
+  {
+    "code": "RS375.1",
+    "description": "Mezzi di trasporto /veicoli utilizzati nell’attività -  numero"
+  },
+  {
+    "code": "RS376.1",
+    "description": "Costi per l'acquisto di materie prime, sussidiarie, semilavorati e merci (esclusi consume e carburanti)"
+  },
+  {
+    "code": "RS378.1",
+    "description": "Spese per l’acquisto carburante per l’autotrazione"
+  },
+  {
+    "code": "RG2.1",
+    "description": "Ricavi di cui  ai commi 1 (lett. a) e b)) e 2 dell'art. 85 - di cui con emissione di fattura"
+  },
+  {
+    "code": "RG2.2",
+    "description": "Ricavi di cui  ai commi 1 (lett. a) e b)) e 2 dell'art. 85"
+  },
+  {
+    "code": "-",
+    "description": "Compensi derivanti dall’attività professionale o artistica -  Compensi convenzionali ONG"
+  },
+  {
+    "code": "RG3.0",
+    "description": "Altri proventi considerati ricavi"
+  },
+  {
+    "code": "RG6.1",
+    "description": "Plusvalenze patrimoniali - di cui art. 86"
+  },
+  {
+    "code": "RG6.2",
+    "description": "Plusvalenze patrimoniali"
+  },
+  {
+    "code": "RG7.0",
+    "description": "Sopravvenienze attive"
+  },
+  {
+    "code": "RG10.1",
+    "description": "Altri componenti positivi (01): dividendi, diversi da quelli indicati con il codice 8, e gli interessi attivi di cui all’art. 89 del TUIR"
+  },
+  {
+    "code": "RG10.2",
+    "description": "Altri componenti positivi (02): redditi degli immobili relativi all’impresa che non costituiscono beni strumentali per l’esercizio della stessa, né beni merce"
+  },
+  {
+    "code": "RG10.3",
+    "description": "Altri componenti positivi (03): Alloggi sociali"
+  },
+  {
+    "code": "RG10.4",
+    "description": "Altri componenti positivi (04): canoni derivanti dalla locazione di immobili \"strumentali per natura"
+  },
+  {
+    "code": "RG10.6",
+    "description": "Altri componenti positivi (06): proventi sotitutivi di redditi derivanti dall’esercizio di attività di impresa e le indennità per il risarcimento danni"
+  },
+  {
+    "code": "RG10.8",
+    "description": "Altri componenti positivi (08): utili distribuiti da soggetto estero"
+  },
+  {
+    "code": "RG10.9",
+    "description": "Altri componenti positivi (09): reddito da trust"
+  },
+  {
+    "code": "RG10.10",
+    "description": "Altri componenti positivi (10): recupero Reti di imprese"
+  },
+  {
+    "code": "RG10.11",
+    "description": "Altri componenti positivi (11): redditi di cui al comma 3 dell’art. 166 del TUIR, determinati a seguito del trasferimento all’estero. Tale ammontare non deve tener conto della plusvalenza soggetta a tassazione separata"
+  },
+  {
+    "code": "RG10.12",
+    "description": "Altri componenti positivi (12): redditi imputati per trasparenza dai fondi immobiliari anche di diritto estero"
+  },
+  {
+    "code": "RG10.13",
+    "description": "Altri componenti positivi (13): quota dei contributi per l’acquisto di beni ammortizzabili, registrati al lordo dei contributi ricevuti"
+  },
+  {
+    "code": "RG10.14",
+    "description": "Altri componenti positivi (14): interessi e altri proventi derivanti dal possesso di obbligazioni e titoli similari"
+  },
+  {
+    "code": "RG10.15",
+    "description": "Altri componenti positivi (15): quota imponibile degli utili provenienti da partecipazioni in imprese o enti esteri localizzati in Stati o territori inclusi nel decreto o nel provvedimento di cui all’art. 47-bis, c.1, del TUIR"
+  },
+  {
+    "code": "RG10.16",
+    "description": "Altri componenti positivi (16): ammontare reddito imponibile delle stabili organizzazioni all’estero, a seguito dell’applicazione della disciplina di cui al comma 7 dell’art. 168-ter del TUIR (rigo RG41.10)"
+  },
+  {
+    "code": "RG10.17",
+    "description": "Altri componenti positivi (17): che intendono avvalersi nel periodo d’imposta successivo del regime forfetario di cui art.1, c. da 54 a 75 L. 190/2014"
+  },
+  {
+    "code": "RG10.19",
+    "description": "Altri componenti positivi (19):  i contributi, gli indennizzi e i risarcimenti, connessi agli eventi sismici, per i soggetti che hanno sede o unità locali nel territorio dei Comuni di cui all'art.1 DL 17/10/2016 n.189"
+  },
+  {
+    "code": "RG10.20",
+    "description": "Altri componenti positivi (20): ammontare dei proventi non soggetti ad imposizione di cui alla lett. g) c.1 dell'art. 44 del TUIR derivante dalla partecipazione ai Fondi per il Venture Capital"
+  },
+  {
+    "code": "RG10.21",
+    "description": "Altri componenti positivi (21): utili provenienti dalla branch esente localizzata negli Stati o territori di cui al comma 4 dell'art. 167 del TUIR distribuiti ai soci di casa madre"
+  },
+  {
+    "code": "RG10.22",
+    "description": "Altri componenti positivi (22): maggiorazioni delle quote di ammortamento compless. dedotte qualora nel corso del periodo di fruizione della maggioraz. i beni agevolati vengano ceduti a titolo oneroso o destinati a strutture produttive situate all’estero"
+  },
+  {
+    "code": "RG10.24",
+    "description": "Altri componenti positivi (24): i contributi, gli indennizzi e i risarcimenti, connessi al crollo di un tratto del viadotto Polcevera dell’autostrada A10, nel Comune di Genova, avvenuto il 14 agosto 2018"
+  },
+  {
+    "code": "RG10.25",
+    "description": "Altri componenti positivi (25): plusvalenze che non ha concorso alla formazione del reddito d’impresa, derivanti dalla cessione dei beni immateriali per i quali si è fruito dell’agevolazione “patent box”"
+  },
+  {
+    "code": "RG10.26",
+    "description": "Altri componenti positivi (26):  40% dei redditi derivanti dai contratti di locazione con clausola di trasferimento della proprietà vincolante per ambedue le parti e di vendita con riserva di proprietà di alloggi sociali"
+  },
+  {
+    "code": "RG10.27",
+    "description": "Altri componenti positivi (27):  ammontare dei contributi a fondo perduto che non concorrono alla formazione del reddito, previsti dalle seguenti disposizioni del 2020: art. 25 del D.L. n.34, art. 59 del D.L. n. 104, art. 1 del D.L. n. 137, e art. 2 del D.L. n. 149 e art. 2 del D.L. n. 172"
+  },
+  {
+    "code": "RG10.28",
+    "description": "Altri componenti positivi (28):  ammontare dei contributi e delle indennità di qualsiasi natura, erogati in via eccezionale a seguito dell'emergenza epidemiodologica da COVID-19 e diversi da quelle esistenti prima della medesima emergenza; ATTENZIONE: RE3.99 non verrà mai inserito nel quadro RE, serve solo per LM"
+  },
+  {
+    "code": "RG10.98",
+    "description": "Diritto Autore Correlati - ATTENZIONE: il campo viene considerato solo per i soggetti forfettari (non finirà mai in RG, RE, RL o o LM/Minimi)"
+  },
+  {
+    "code": "RG10.99",
+    "description": "Altri componenti positivi (99): altri componenti positivi non espressamente elencati"
+  },
+  {
+    "code": "RG13.1",
+    "description": "Esistenze iniziali - Art. 92"
+  },
+  {
+    "code": "RG13.2",
+    "description": "Esistenze iniziali - Art. 93"
+  },
+  {
+    "code": "RG13.3",
+    "description": "Esistenze iniziali - Art. 94"
+  },
+  {
+    "code": "RG15.0",
+    "description": "Costi per l'acquisto di materie prime, sussidiarie, semilavorati e merci"
+  },
+  {
+    "code": "RG22.98",
+    "description": "Consumi (servizi telefonici, energia elettrica); ATTENZIONE: RG22.98 verrà sommato in RG22.99 se si compila veramente il quadro RG"
+  },
+  {
+    "code": "RG16.0",
+    "description": "Spese per lavoro dipendente e assimilato"
+  },
+  {
+    "code": "RG16.0",
+    "description": "Compensi corrisposti a terzi per prestazioni direttamente afferenti l’attività professionale e artistica"
+  },
+  {
+    "code": "RG17.0",
+    "description": "Utili spettanti agli associati in partecipazione"
+  },
+  {
+    "code": "RG18.0",
+    "description": "Quote di ammortamento (escluso immobili)"
+  },
+  {
+    "code": "RG18.0",
+    "description": "Quote di ammortamento (solo Immobili)"
+  },
+  {
+    "code": "RG19.0",
+    "description": "Spese per l'acquisto di beni strumentali di costo unitario non superiore a euro 516,46"
+  },
+  {
+    "code": "RG20.0",
+    "description": "Canoni di locazione finanziaria relativi ai beni mobili strumentali"
+  },
+  {
+    "code": "RG22.2",
+    "description": "Altri componenti negativi (02): costo sostenuto per l'acquisto di azioni, quote di partecipaz. in società ed enti di cui all’art. 73 TUIR comprese quelle non rapp. da titoli, strum. finanziari, obbligaz. e altri titoli in serie o di massa."
+  },
+  {
+    "code": "RG22.3",
+    "description": "Altri componenti negativi (03): canoni di locazione non finanziaria / noleggio nonché canoni di locazione finanziaria diversi da RG20 (escluso immobili)"
+  },
+  {
+    "code": "RG22.3",
+    "description": "Altri componenti negativi (03): canoni di locazione non finanziaria / noleggio nonché canoni di locazione finanziaria diversi da RG20 (solo Immobili)"
+  },
+  {
+    "code": "RG22.4",
+    "description": "Altri componenti negativi (04): quota degli interessi passivi deducibile ai sensi dell’art. 61 del TUIR"
+  },
+  {
+    "code": "RG22.5",
+    "description": "Altri componenti negativi (05): minusvalenze patrimoniali, sopravvenienze passive e perdite di cui all’art.101 del TUIR"
+  },
+  {
+    "code": "RG22.6",
+    "description": "Altri componenti negativi (06): imposte deducibili e i contributi ad associazioni sindacali e di categoria"
+  },
+  {
+    "code": "RG22.7",
+    "description": "Altri componenti negativi (07): quota imputabile al periodo d’imposta delle spese relative a più esercizi deducibili ai sensi dell'art. 108, comma 1, del TUIR"
+  },
+  {
+    "code": "RG22.8",
+    "description": "Altri componenti negativi (08): spese di rappresentanza (Spese alberghiere, alimenti e bevande)"
+  },
+  {
+    "code": "RG22.8",
+    "description": "Altri componenti negativi (08): spese di rappresentanza (Altre spese)"
+  },
+  {
+    "code": "RG22.9",
+    "description": "Altri componenti negativi (09): spese relative a prestazioni alberghiere e a somministrazione di alimenti e bevande non qualificabili quali spese di rappresentanza (Spese non addebitate analiticamente al committente)"
+  },
+  {
+    "code": "RG22.9",
+    "description": "Altri componenti negativi (09): spese relative a prestazioni alberghiere e a somministrazione di alimenti e bevande non qualificabili quali spese di rappresentanza (Spese addebitate analiticamente al committente)"
+  },
+  {
+    "code": "RG22.10",
+    "description": "Altri componenti negativi (10): deduzione forfetaria delle spese non documentate art. 66 c.4 TUIR - intermediari e rappresentanti di commercio"
+  },
+  {
+    "code": "RG22.11",
+    "description": "Altri componenti negativi (11): spese e altri componenti negativi, diversi da interessi passivi, tranne oneri fiscali, contributivi , utilità sociale"
+  },
+  {
+    "code": "RG22.12",
+    "description": "Altri componenti negativi (12): spese ed erogazioni liberali di cui alle lettere e), f), per la quota delle stesse che non danno diritto al credito d’imposta \"Art- bonus"
+  },
+  {
+    "code": "RG22.13",
+    "description": "Altri componenti negativi (13): spese di manutenzione, riparazione, ammodernamento e trasformazione – art.102 c.6 TUIR (esclusi immobili)"
+  },
+  {
+    "code": "RG22.13",
+    "description": "Altri componenti negativi (13): spese di manutenzione, riparazione, ammodernamento e trasformazione – art.102 c.6 TUIR (solo immobili)"
+  },
+  {
+    "code": "RG22.14",
+    "description": "Altri componenti negativi (14): IRAP 10%"
+  },
+  {
+    "code": "RG22.15",
+    "description": "Altri componenti negativi (15): IRAP personale dipendente"
+  },
+  {
+    "code": "RG22.17",
+    "description": "Altri componenti negativi (17): deduzione forfetaria autotrasportatori fuori comune"
+  },
+  {
+    "code": "RG22.16",
+    "description": "Altri componenti negativi (16): deduzione forfetaria autotrasportatori entro comune"
+  },
+  {
+    "code": "RG22.19",
+    "description": "Altri componenti negativi (19): deduzione forfetaria autotrasportatori motoveicoli e autoveicoli"
+  },
+  {
+    "code": "RG22.20",
+    "description": "Altri componenti negativi (20): erogazioni liberali a favore delle popolazioni colpite da eventi di calamità pubblica e da altri eventi straordinari"
+  },
+  {
+    "code": "RG22.21",
+    "description": "Altri componenti negativi (21): deduzione forfetaria prevista dall’art. 34 della legge 12 novembre 2011, n. 183"
+  },
+  {
+    "code": "RG22.22",
+    "description": "Altri componenti negativi (22): perdite imputate per trasparenza dai fondi immobiliari, anche di diritto estero"
+  },
+  {
+    "code": "RG22.23",
+    "description": "Altri componenti negativi (23): 50% IMU, IMI, IMIS - immobili strumentali"
+  },
+  {
+    "code": "RG22.26",
+    "description": "Altri componenti negativi (26): plusvalenze, già indicate in RG6, derivanti dalla cessione dei beni di cui al c.39 art.1 L. 190/2014"
+  },
+  {
+    "code": "RG22.271",
+    "description": "Altri componenti negativi (27): maggior valore ammortamenti in beni materiali strumentali nuovi effettuati dal 15/10/2015 al 31/12/2016 il cui costo di acquisizione è maggiorato del 40 %"
+  },
+  {
+    "code": "RG22.271",
+    "description": "Altri componenti negativi (27): maggior valore  leasing per investimenti in beni materiali strumentali nuovi effettuati dal 15/10/2015 al 31/12/2016 il cui costo di acquisizione è maggiorato del 40 %"
+  },
+  {
+    "code": "RG22.272",
+    "description": "Altri componenti negativi (27): investimenti in beni materiali strumentali nuovi esclusi veicoli e altri mezzi art. 164 (art. 1 comma 8 L. 232/2016)"
+  },
+  {
+    "code": "",
+    "description": "Altri componenti negativi (28): maggior valore ammortamenti e leasing per investimenti in beni materiali strumentali nuovi - Industria 4.0  il cui costo di acquisizione è maggiorato del 150 %"
+  },
+  {
+    "code": "RG22.29",
+    "description": "Altri componenti negativi (29): maggior valore ammortamenti e leasing per investimenti in beni immateriali strumentali (All. B L. 232/2016) il cui costo di acquisizione è maggiorato del 40 %"
+  },
+  {
+    "code": "RG22.30",
+    "description": "Altri componenti negativi (30): 50% rendita catastale degli immobili utilizzati promiscuamente"
+  },
+  {
+    "code": "RG22.31",
+    "description": "Altri componenti negativi (31): quote residue dei componenti negativi di reddito relativi ad esercizi precedenti al nuovo regime art1. c.58-89 L. 190/2014"
+  },
+  {
+    "code": "RG22.32",
+    "description": "Altri componenti negativi (32): l’ammontare della quota delle sopravvenienze attive esclusa ai sensi del comma 3-bis dell’art. 88 del TUIR (limitatam. ai contributi indicati nel codice 53)"
+  },
+  {
+    "code": "RG22.33",
+    "description": "Altri componenti negativi (33): i contributi, gli indennizzi e i risarcimenti, connessi agli eventi sismici, per i soggetti che hanno sede o unità locali nel territorio dei Comuni di cui all'art.1 DL 17/10/2016 n.189"
+  },
+  {
+    "code": "RG22.34",
+    "description": "Altri componenti negativi (34): ammontare delle perdite residue della stabile organizzazione utilizzate in abbattimento dei redditi dalla stessa conseguiti, nell’ipotesi di cessazione dell’efficacia dell’opzione di cui all’art. 168-ter del TUIR"
+  },
+  {
+    "code": "RG22.35",
+    "description": "Altri componenti negativi (35): ammontare dei proventi non soggetti ad imposizione di cui alla lett. g) c.1 dell'art. 44 del TUIR derivante dalla partecipazione ai Fondi per il Venture Capital"
+  },
+  {
+    "code": "RG22.36",
+    "description": "Altri componenti negativi (36): maggior valore ammortamenti e leasing per investimenti in beni materiali strumentali nuovi effettuati dal 01/01/2018 al 31/12/2018 ovvero entro 30/06/2019 il cui costo di acquisizione è maggiorato del 30 %"
+  },
+  {
+    "code": "RG22.37",
+    "description": "Altri componenti negativi (37): maggior valore ammortamenti e leasing per investimenti di cui  al codice 28 effettuati entro il 31/12/2018 ovvero 31/12/2019  il cui costo di acquisizione è maggiorato del 150 %"
+  },
+  {
+    "code": "RG22.38",
+    "description": "Altri componenti negativi (38): maggior valore ammortamenti e leasing per investimenti di cui  al codice 29 effettuati entro il 31/12/2018 ovvero 31/12/2019  il cui costo di acquisizione è maggiorato del 40 %"
+  },
+  {
+    "code": "RG22.41",
+    "description": "Altri componenti negativi (41): i contributi, gli indennizzi e i risarcimenti, già indicati nel rigo RG10 con il codice 24, connessi al crollo di un tratto del viadotto Polcevera dell’autostrada A10, nel Comune di Genova, avvenuto il 14 agosto 2018"
+  },
+  {
+    "code": "RG22.42",
+    "description": "Altri componenti negativi (42): maggior valore ammortamenti e leasing per investimenti di cui  al codice 28 effettuati entro il 31/12/2019 ovvero 31/12/2020  il cui costo di acquisizione è maggiorato del 170%  100% o 50%"
+  },
+  {
+    "code": "RG22.43",
+    "description": "Altri componenti negativi (43): maggior valore ammortamenti e leasing per investimenti di cui  al codice 29 effettuati entro il 31/12/2019 ovvero 31/12/2020 il cui costo di acquisizione è maggiorato del 40 %"
+  },
+  {
+    "code": "RG22.44",
+    "description": "Altri componenti negativi (44): maggior valore delle quote di am.to e dei canoni di locaz. finanz. di investim. in beni materiali strum. nuovi, esclusi mezzi di trasporto di cui all'art. 164, c.1, TUIR effettuati dal 01/04/2019 al 31/12/2019"
+  },
+  {
+    "code": "RG22.45",
+    "description": "Altri componenti negativi (45): la quota annuale delle plusvalenze di cui al beneficio “Patent box” qualora si abbia optato, in alternativa all’istanza di ruling, per l’indicazione delle info necessarie alla determinazione del reddito agevolabile"
+  },
+  {
+    "code": "RG22.46",
+    "description": "Altri componenti negativi (46): la quota deducibile del 20% delle spese sostenute per gli investimenti in nuovi impianti di colture arboree pluriennali a norma dell'articolo 108, comma 1 del TUIR"
+  },
+  {
+    "code": "RG22.47",
+    "description": "Altri componenti negativi (47): ammontare dei contributi a fondo perduto che non concorrono alla formazione del reddito, già indicati nel rigo RG10 con il codice 27"
+  },
+  {
+    "code": "RG22.48",
+    "description": "Altri componenti negativi (48): ammontare dei contributi e delle indennità di qualsiasi natura che non concorrono alla formazione del reddito, già indicati nel rigo RG10 con il codice 28"
+  },
+  {
+    "code": "RG22.99",
+    "description": "Altri componenti negativi (99): Spese di iscrizione a master, corsi di formazione, convegni,congressi o a corsi di aggiornamento professionale - Spese alberghiere, alimenti e bevande"
+  },
+  {
+    "code": "RG22.99",
+    "description": "Altri componenti negativi (99): Spese di iscrizione a master, corsi di formazione, convegni,congressi o a corsi di aggiornamento professionale - Spese formazione"
+  },
+  {
+    "code": "RG22.99",
+    "description": "Altri componenti negativi (99): Spese di iscrizione a master, corsi di formazione, convegni,congressi o a corsi di aggiornamento professionale - Spese Servizi certificazione competenze"
+  },
+  {
+    "code": "RG22.99",
+    "description": "Altri componenti negativi (99): altri componenti negativi non espressamente elencati"
+  },
+  {
+    "code": "RG23.1",
+    "description": "Reddito detassato - Patent box"
+  },
+  {
+    "code": "RG23.2",
+    "description": "Reddito detassato - Ruling"
+  },
+  {
+    "code": "RG23.3",
+    "description": "Reddito detassato - Documentazione"
+  },
+  {
+    "code": "RG23.4",
+    "description": "Reddito detassato - Navi registro internazionale"
+  },
+  {
+    "code": "RG23.5",
+    "description": "Reddito detassato - Pesca e Navi da crociera"
+  },
+  {
+    "code": "RG23.6",
+    "description": "Reddito detassato"
+  },
+  {
+    "code": "RG26.1",
+    "description": "Redditi da partecipazione"
+  },
+  {
+    "code": "RG26.2",
+    "description": "Redditi da partecipazione"
+  },
+  {
+    "code": "RG26.3",
+    "description": "Redditi da partecipazione - reddito minimo"
+  },
+  {
+    "code": "RG26.4",
+    "description": "Redditi da partecipazione"
+  },
+  {
+    "code": "RG27.1",
+    "description": "Perdite da partecipazione"
+  },
+  {
+    "code": "RG27.2",
+    "description": "Perdite da partecipazione"
+  },
+  {
+    "code": "RG27.3",
+    "description": "Perdite da partecipazione"
+  },
+  {
+    "code": "RG28.1",
+    "description": "Perdita non compensate"
+  },
+  {
+    "code": "RG29.0",
+    "description": "Erogazioni liberali"
+  },
+  {
+    "code": "RG30.0",
+    "description": "Proventi esenti"
+  },
+  {
+    "code": "RG31.0",
+    "description": "Reddito d'impresa (o perdita)"
+  },
+  {
+    "code": "RG35.1",
+    "description": "Perdite d'impresa portate in diminuzione del reddito - di cui degli anni precedenti - misura limitata 60% (se il campo DC63 = 1 allora la percentuale corrisponde 100%)"
+  },
+  {
+    "code": "RG35.2",
+    "description": "Perdite d'impresa portate in diminuzione del reddito - di cui degli anni precedenti - misura limitata 80% (se il campo DC63 = 1 allora la percentuale corrisponde 100%)"
+  },
+  {
+    "code": "RG35.3",
+    "description": "Perdite d'impresa portate in diminuzione del reddito - di cui degli anni precedenti - misura piena"
+  },
+  {
+    "code": "RG35.4",
+    "description": "Perdite d'impresa portate in diminuzione del reddito"
+  },
+  {
+    "code": "RG38.2",
+    "description": "Rimanenze finali - Art. 92"
+  },
+  {
+    "code": "RG38.3",
+    "description": "Rimanenze finali - Art. 93"
+  },
+  {
+    "code": "RG38.4",
+    "description": "Rimanenze finali - Art. 94"
+  },
+  {
+    "code": "RSP01.1",
+    "description": "Perdite Impresa - da contabilità semplificata"
+  },
+  {
+    "code": "RSP01.2",
+    "description": "Perdite Impresa - da contabilità semplificata 2019"
+  },
+  {
+    "code": "RSP01.3",
+    "description": "Perdite Impresa - da contabilità ordinaria periodi precedenti"
+  },
+  {
+    "code": "RSP01.4",
+    "description": "Perdite Impresa - in misura piena periodi precedenti"
+  },
+  {
+    "code": "RSP02.1",
+    "description": "Perdite Autonomo"
+  },
+  {
+    "code": "RSP03.1",
+    "description": "Perdite Minimi - Impresa - 5° Periodo precedente"
+  },
+  {
+    "code": "RSP03.2",
+    "description": "Perdite Minimi - Impresa - 4° Periodo precedente"
+  },
+  {
+    "code": "RSP03.3",
+    "description": "Perdite Minimi - Impresa - 3° Periodo precedente"
+  },
+  {
+    "code": "RSP03.4",
+    "description": "Perdite Minimi - Impresa - 2° Periodo precedente"
+  },
+  {
+    "code": "RSP03.5",
+    "description": "Perdite Minimi - Impresa - 1° Periodo precedente"
+  },
+  {
+    "code": "RSP03.6",
+    "description": "Perdite Minimi - Impresa - Senza limiti di tempo"
+  },
+  {
+    "code": "RSP04.1",
+    "description": "Perdite Minimi - Autonomo - 5° Periodo precedente"
+  },
+  {
+    "code": "RSP04.2",
+    "description": "Perdite Minimi - Autonomo - 4° Periodo precedente"
+  },
+  {
+    "code": "RSP04.3",
+    "description": "Perdite Minimi - Autonomo - 3° Periodo precedente"
+  },
+  {
+    "code": "RSP04.4",
+    "description": "Perdite Minimi - Autonomo - 2° Periodo precedente"
+  },
+  {
+    "code": "RSP04.5",
+    "description": "Perdite Minimi - Autonomo - 1° Periodo precedente"
+  },
+  {
+    "code": "RSP04.6",
+    "description": "Perdite Minimi - Autonomo - Senza limiti di tempo"
+  },
+  {
+    "code": "RS480.1.X",
+    "description": "Versamenti sospesi a seguito dell'emergenza sanitaria da Covid-19 - Codice"
+  },
+  {
+    "code": "RS480.2.X",
+    "description": "Versamenti sospesi a seguito dell'emergenza sanitaria da Covid-19 - Importo"
+  },
+  {
+    "code": "RS401.1.X",
+    "description": "Codice aiuto - Obbligatorio"
+  },
+  {
+    "code": "RS401.2.X",
+    "description": "Base giuridica - regione"
+  },
+  {
+    "code": "RS401.3.X",
+    "description": "Quadro"
+  },
+  {
+    "code": "RS401.4.X",
+    "description": "Base giuridica - Tipo norma"
+  },
+  {
+    "code": "RS401.5.X",
+    "description": "Base giuridica - Anno"
+  },
+  {
+    "code": "RS401.6.X",
+    "description": "Base giuridica - Numero"
+  },
+  {
+    "code": "RS401.7.X",
+    "description": "Base giuridica - Articolo"
+  },
+  {
+    "code": "RS401.8.X",
+    "description": "Base giuridica - Estensione"
+  },
+  {
+    "code": "RS401.9.X",
+    "description": "Base giuridica - Comma Numero"
+  },
+  {
+    "code": "RS401.10.X",
+    "description": "Base giuridica - Comma - Estensione"
+  },
+  {
+    "code": "RS401.11.X",
+    "description": "Base giuridica - Comma Lettera"
+  },
+  {
+    "code": "RS401.11A.X",
+    "description": "Codice CAR"
+  },
+  {
+    "code": "RS401.12",
+    "description": "Forma Giuridica - Obbligatorio"
+  },
+  {
+    "code": "RS401.13",
+    "description": "Dimensione Impresa - Obbligatorio"
+  },
+  {
+    "code": "RS401.14.X",
+    "description": "Codice attività ATECO - Obbligatorio"
+  },
+  {
+    "code": "RS401.15.X",
+    "description": "Settore - Obbligatorio"
+  },
+  {
+    "code": "RS401.16.X",
+    "description": "Tipo SIEG"
+  },
+  {
+    "code": "RS401.18.X.Y",
+    "description": "Data inizio"
+  },
+  {
+    "code": "RS401.19.X.Y",
+    "description": "Data fine"
+  },
+  {
+    "code": "RS401.20.X.Y",
+    "description": "Codice regione"
+  },
+  {
+    "code": "RS401.21.X.Y",
+    "description": "Codice comune"
+  },
+  {
+    "code": "RS401.22.X.Y",
+    "description": "CAP"
+  },
+  {
+    "code": "RS401.23.X.Y",
+    "description": "Tipologia"
+  },
+  {
+    "code": "RS401.24.X.Y",
+    "description": "Indirizzo"
+  },
+  {
+    "code": "RS401.25.X.Y",
+    "description": "Numero civico"
+  },
+  {
+    "code": "RS401.26.X.Y",
+    "description": "Tipologia costi - Obbligatorio"
+  },
+  {
+    "code": "RS401.27.X.Y",
+    "description": "Costi agevolabili"
+  },
+  {
+    "code": "RS401.28.X.Y",
+    "description": "Intensità di aiuto"
+  },
+  {
+    "code": "RS401.29.X.Y",
+    "description": "Importo aiuto spettante - Obbligatorio (se il campo RS401001 è diverso da 20, 22, 23, 27 e 28)"
+  },
+  {
+    "code": "RS402.X",
+    "description": "Impresa Unica - Codice fiscale"
+  },
+  {
+    "code": "FAXX.01",
+    "description": "Relazione di parentela 'C'=Coniuge, 'F1'=Primo figlio, 'F'=Figlio,'A'=Altro familiare"
+  },
+  {
+    "code": "FAXX.02",
+    "description": "Mancanza coniuge"
+  },
+  {
+    "code": "FAXX.03",
+    "description": "Disabile"
+  },
+  {
+    "code": "FAXX.04",
+    "description": "Coniuge a carico"
+  },
+  {
+    "code": "FAXX.05",
+    "description": "Codice fiscale"
+  },
+  {
+    "code": "FAXX.06",
+    "description": "Cognome (non obbligatorio)"
+  },
+  {
+    "code": "FAXX.07",
+    "description": "Nome (non obbligatorio)"
+  },
+  {
+    "code": "FAXX.08",
+    "description": "% detrazione (0,50,100)"
+  },
+  {
+    "code": "FAXX.09",
+    "description": "Detrazione 100% affidamento figli"
+  },
+  {
+    "code": "FAXX.10",
+    "description": "Data di nascita (non obbligatorio)"
+  },
+  {
+    "code": "FAXX.11",
+    "description": "A carico da mese"
+  },
+  {
+    "code": "FAXX.12",
+    "description": "A carico a mese"
+  },
+  {
+    "code": "FA7.1",
+    "description": "Percentuale ulteriore detrazione per famiglie con almento 4 figli"
+  },
+  {
+    "code": "FA9.1",
+    "description": "Numero figli in affido preadottivo a carico"
+  },
+  {
+    "code": "SC8.1",
+    "description": "Stato"
+  },
+  {
+    "code": "SC8.2",
+    "description": "Chiesa cattolica"
+  },
+  {
+    "code": "SC8.3",
+    "description": "Unione avventiste"
+  },
+  {
+    "code": "SC8.4",
+    "description": "Assemblee di Dio"
+  },
+  {
+    "code": "SC8.5",
+    "description": "Chiesa valdese"
+  },
+  {
+    "code": "SC8.6",
+    "description": "Chiesa luterana"
+  },
+  {
+    "code": "SC8.7",
+    "description": "Unione ebraiche"
+  },
+  {
+    "code": "SC8.8",
+    "description": "Arcidiocesi ortodossa"
+  },
+  {
+    "code": "SC8.9",
+    "description": "Chiesa apostolica"
+  },
+  {
+    "code": "SC8.10",
+    "description": "Unione battista"
+  },
+  {
+    "code": "SC8.11",
+    "description": "Unione buddista"
+  },
+  {
+    "code": "SC8.12",
+    "description": "Unione induista"
+  },
+  {
+    "code": "SC8.13",
+    "description": "Istituto buddista Soka Gakkai"
+  },
+  {
+    "code": "SC8.91",
+    "description": "1- fame nel mondo, 2- calamità, 3 - edilizia scolastica, 4 - assistenza ai rifugiati, 5 - beni culturali (Legato alla scelta SC8.1 - Stato)"
+  },
+  {
+    "code": "SC8.99",
+    "description": "Anomalie 8x1000 (1, 2, 3)"
+  },
+  {
+    "code": "SC5.1",
+    "description": "Volontariato"
+  },
+  {
+    "code": "SC5.2",
+    "description": "Volontariato (Codice fiscale)"
+  },
+  {
+    "code": "SC5.3",
+    "description": "Ricerca"
+  },
+  {
+    "code": "SC5.4",
+    "description": "Ricerca (Codice fiscale)"
+  },
+  {
+    "code": "SC5.5",
+    "description": "Sanitaria"
+  },
+  {
+    "code": "SC5.6",
+    "description": "Sanitaria (Codice fiscale)"
+  },
+  {
+    "code": "SC5.7",
+    "description": "Cultura"
+  },
+  {
+    "code": "SC5.8",
+    "description": "Cultura (Codice fiscale)"
+  },
+  {
+    "code": "SC5.9",
+    "description": "Comune"
+  },
+  {
+    "code": "SC5.10",
+    "description": "Sportive"
+  },
+  {
+    "code": "SC5.11",
+    "description": "Sportive (Codice fiscale)"
+  },
+  {
+    "code": "SC5.12",
+    "description": "Aree protette"
+  },
+  {
+    "code": "SC5.13",
+    "description": "Aree protette (codice fiscale)"
+  },
+  {
+    "code": "SC5.99",
+    "description": "Anomalie 5x1000 (1, 2, 3, 4)"
+  },
+  {
+    "code": "SC2.1",
+    "description": "Codice partito politico"
+  },
+  {
+    "code": "SC2.99",
+    "description": "Anomalie 2x1000 (1, 2, 3, 4)"
+  },
+  {
+    "code": "SC2A.1",
+    "description": "Associazioni culturali - Codice fiscale"
+  },
+  {
+    "code": "SC2A.99",
+    "description": "Associazioni culturali - Anomalie"
+  },
+  {
+    "code": "SC99.99",
+    "description": "Anomalie 5 e 8x1000 (1, 2, 3)"
+  },
+  {
+    "code": "RC00.0",
+    "description": "Casi particolari - (aggiunti i codici dal 6 in poi)"
+  },
+  {
+    "code": "RC00.2",
+    "description": "Opzione tassazione in dichiarazione -> 0 - Non selezionato, 1 - Ordinaria, 2 - Sostitutiva"
+  },
+  {
+    "code": "RC00.3",
+    "description": "Totale giorni lavoro dipendente (ATTENZIONE: deve essere uguale alla somma dei campi [RC00.6] e [RC00.7])"
+  },
+  {
+    "code": "RC00.4",
+    "description": "Totale giorni pensione"
+  },
+  {
+    "code": "RC00.5",
+    "description": "Permetti compilazione CU con giorni uguale a Zero"
+  },
+  {
+    "code": "RC00.6",
+    "description": "Totale giorni 1° semestre"
+  },
+  {
+    "code": "RC00.7",
+    "description": "Totale giorni 2° semestre"
+  },
+  {
+    "code": "RCXX.01",
+    "description": "Tipo reddito  (1-Pensione; 2-LavoroDipendente; 3-Lavoro Socialmente Utile; 4-Transfrontalieri; 7-Pensione orfani; 91-Assegni coniuge; 92-Altri redditi)  tolti i codici 5 6 e 8"
+  },
+  {
+    "code": "RCXX.02",
+    "description": "Lavoro a tempo determinato"
+  },
+  {
+    "code": "RCXX.03",
+    "description": "Sostituto (non obbligatorio)"
+  },
+  {
+    "code": "RCXX.04",
+    "description": "Reddito"
+  },
+  {
+    "code": "RCXX.05",
+    "description": "Detrazioni (non obbligatorio)"
+  },
+  {
+    "code": "RCXX.06",
+    "description": "Giorni"
+  },
+  {
+    "code": "RCXX.07",
+    "description": "Ritenute IRPEF"
+  },
+  {
+    "code": "RCXX.08",
+    "description": "Addizionale Regionale"
+  },
+  {
+    "code": "RCXX.09",
+    "description": "Acconto Comunale Anno Precedente"
+  },
+  {
+    "code": "RCXX.10",
+    "description": "Saldo Comunale Anno Precedente"
+  },
+  {
+    "code": "RCXX.11",
+    "description": "Acconto Comunale Anno Corrente"
+  },
+  {
+    "code": "RCXX.12",
+    "description": "Limite (1-3000€ , 2-4000€)"
+  },
+  {
+    "code": "RCXX.13",
+    "description": "Tassazione ordinaria"
+  },
+  {
+    "code": "RCXX.14",
+    "description": "Tassazione sostitutiva"
+  },
+  {
+    "code": "RCXX.15",
+    "description": "Ritenute imposta sostitutiva"
+  },
+  {
+    "code": "RCXX.16",
+    "description": "Benefit"
+  },
+  {
+    "code": "RCXX.17",
+    "description": "Benefit tassazione ordinaria"
+  },
+  {
+    "code": "RCXX.18",
+    "description": "Assenza requisiti"
+  },
+  {
+    "code": "RCXX.19",
+    "description": "Bonus IRPEF (1-Erogato, 2-Non erogato)"
+  },
+  {
+    "code": "RCXX.20",
+    "description": "Bonus erogato"
+  },
+  {
+    "code": "RCXX.22",
+    "description": "Reddito esente"
+  },
+  {
+    "code": "RCXX.24",
+    "description": "1 - Redditi di fonte estera, 2 - Pensione ai superstiti di fonte estera, 3 - Soci cooperative artigiani, 5 - Reddito residenti Campione"
+  },
+  {
+    "code": "RCXX.25",
+    "description": "Detrazione comparto sicurezza - Fruita tassazione ordinaria"
+  },
+  {
+    "code": "RCXX.26",
+    "description": "Detrazione comparto sicurezza - Non fruita tassazione ordinaria"
+  },
+  {
+    "code": "RCXX.27",
+    "description": "Detrazione comparto sicurezza - Fruita tassazione separata"
+  },
+  {
+    "code": "RCXX.28",
+    "description": "Periodo di lavoro - I semestre"
+  },
+  {
+    "code": "RCXX.29",
+    "description": "Periodo di lavoro - II semestre"
+  },
+  {
+    "code": "RCXX.30",
+    "description": "RC14 - Codice Trattamento"
+  },
+  {
+    "code": "RCXX.31",
+    "description": "RC14 - Trattamento erogato"
+  },
+  {
+    "code": "RCXX.32",
+    "description": "RC14 - Esenzione per Impatriati"
+  },
+  {
+    "code": "RCXX.33",
+    "description": "RC14 - Fruizione misure sostegno"
+  },
+  {
+    "code": "RCXX.34",
+    "description": "RC14 - Lavoro dipendente"
+  },
+  {
+    "code": "RCXX.35",
+    "description": "RC14 - Retribuzione contrattuale"
+  },
+  {
+    "code": "RCXX.99",
+    "description": "Dati non presenti nella CU"
+  },
+  {
+    "code": "RL1.1.X",
+    "description": "Vale da 1 a 11"
+  },
+  {
+    "code": "RL1.2.X",
+    "description": "Reddito"
+  },
+  {
+    "code": "RL1.3.X",
+    "description": "Ritenute"
+  },
+  {
+    "code": "RL2.1.X",
+    "description": "Vale da 1 a 9"
+  },
+  {
+    "code": "RL2.2.X",
+    "description": "Redditi"
+  },
+  {
+    "code": "RL2.3.X",
+    "description": "Ritenute"
+  },
+  {
+    "code": "RL4.1.X",
+    "description": "Codice fiscale trust"
+  },
+  {
+    "code": "RL4.2.X",
+    "description": "Reddito"
+  },
+  {
+    "code": "RL4.3.X",
+    "description": "Credito d'imposta fondi comuni"
+  },
+  {
+    "code": "RL4.4.X",
+    "description": "Credito d'imposta estero"
+  },
+  {
+    "code": "RL4.5.X",
+    "description": "Ritenute"
+  },
+  {
+    "code": "RL4.6.X",
+    "description": "Eccedenza d'imposta"
+  },
+  {
+    "code": "RL4.7.X",
+    "description": "Altri crediti"
+  },
+  {
+    "code": "RL4.8.X",
+    "description": "Acconti versati"
+  },
+  {
+    "code": "RL4.9.X",
+    "description": "Imposte controllate estere"
+  },
+  {
+    "code": "RL5.1",
+    "description": "Corrispettivi (redditi) Art67 lett. a"
+  },
+  {
+    "code": "RL5.2",
+    "description": "Corrispettivi (spese) Art67 lett. a"
+  },
+  {
+    "code": "RL6.1",
+    "description": "Corrispettivi (Rredditi) Art67 lett. b"
+  },
+  {
+    "code": "RL6.2",
+    "description": "Corrispettivi (spese) Art67 lett. b"
+  },
+  {
+    "code": "RL7.1",
+    "description": "Corrispettivi (Rredditi) Art67 lett. c"
+  },
+  {
+    "code": "RL7.2",
+    "description": "Corrispettivi (spese) Art67 lett. c"
+  },
+  {
+    "code": "RL8.1",
+    "description": "Proventi da cessione azienda (redditi)"
+  },
+  {
+    "code": "RL8.2",
+    "description": "Proventi da cessione azienda (spese)"
+  },
+  {
+    "code": "RL9.1",
+    "description": "Proventi da affitto azienda (redditi)"
+  },
+  {
+    "code": "RL9.2",
+    "description": "Proventi da affitto azienda (spese)"
+  },
+  {
+    "code": "RL10.1",
+    "description": "Proventi da utilizzazione terzi di beni mobili ed immobili (redditi)"
+  },
+  {
+    "code": "RL10.2",
+    "description": "Proventi da utilizzazione terzi di beni mobili ed immobili (spese)"
+  },
+  {
+    "code": "RL10.4",
+    "description": "Locazioni brevi (Irpef)"
+  },
+  {
+    "code": "RL10.5",
+    "description": "Locazioni brevi (Irpef) (spese)"
+  },
+  {
+    "code": "RL10.4.C",
+    "description": "Locazioni brevi (Cedolare)"
+  },
+  {
+    "code": "RL11.1",
+    "description": "Redditi fondiari (redditi)"
+  },
+  {
+    "code": "RL12.1",
+    "description": "Redditi da immobili esteri per i quali è dovuta IVIE"
+  },
+  {
+    "code": "RL12.2",
+    "description": "Redditi da immobili esteri"
+  },
+  {
+    "code": "RL12.3",
+    "description": "Redditi per i quali non è stata applicata la ritenuta"
+  },
+  {
+    "code": "RL13",
+    "description": "Reddti da opere dell'ingegno ecc."
+  },
+  {
+    "code": "RL14.1",
+    "description": "Corrispettivi da attività commerciale (redditi)"
+  },
+  {
+    "code": "RL14.2",
+    "description": "Corrispettivi da attività commerciale (spese)"
+  },
+  {
+    "code": "RL15.1",
+    "description": "Corrispettivi da lavoro autonomo (redditi)"
+  },
+  {
+    "code": "RL15.2",
+    "description": "Corrispettivi da lavoro autonomo (spese)"
+  },
+  {
+    "code": "RL16.1",
+    "description": "Corrispettivi derivanti dall'assunzione di obblighi di fare ... (redditi)"
+  },
+  {
+    "code": "RL16.2",
+    "description": "Corrispettivi derivanti dall'assunzione di obblighi di fare ... (spese)"
+  },
+  {
+    "code": "RL17.1",
+    "description": "Redditi determinati ai sensi dell'art71,C2-bis (redditi)"
+  },
+  {
+    "code": "RL17.2",
+    "description": "Redditi determinati ai sensi dell'art71,C2-bis spese)"
+  },
+  {
+    "code": "RL20.1",
+    "description": "Ritenute d'acconto"
+  },
+  {
+    "code": "RL21.1",
+    "description": "Attività sportive dilett. (compensi)"
+  },
+  {
+    "code": "RL21.2",
+    "description": "Compensi esenti (fino a 10000)"
+  },
+  {
+    "code": "RL23.1",
+    "description": "Ritenute operate sui compensi percepiti"
+  },
+  {
+    "code": "RL24.1",
+    "description": "Addizionale regionale trattenuta sui compensi percepiti"
+  },
+  {
+    "code": "RL24.2",
+    "description": "Addizionale regionale"
+  },
+  {
+    "code": "RL24.3",
+    "description": "Addizionale comunale trattenuta sui compensi percepiti"
+  },
+  {
+    "code": "RL24.4",
+    "description": "Addizionale comunale trattenuta sui compensi percepiti"
+  },
+  {
+    "code": "RL25",
+    "description": "Proventi lordi da utilizzazione opere d'ingegno .."
+  },
+  {
+    "code": "RL26.1",
+    "description": "Indennità percepite"
+  },
+  {
+    "code": "RL26.2",
+    "description": "Indennità percepite"
+  },
+  {
+    "code": "RL27",
+    "description": "Redditi da contratti di associazione.."
+  },
+  {
+    "code": "RL31",
+    "description": "Ritenute d'acconto"
+  },
+  {
+    "code": "RL32.1",
+    "description": "Decadenza startup - deduzione fruita non spettante"
+  },
+  {
+    "code": "RL32.2",
+    "description": "Decadenza startup - interessi su deduzione fruita"
+  },
+  {
+    "code": "RL32.3",
+    "description": "Decadenza startup - eccedenza di deduzione"
+  },
+  {
+    "code": "DC47",
+    "description": "Dichiarazione presentata per la prima volta"
+  },
+  {
+    "code": "DC20",
+    "description": "Eventi eccezionali"
+  },
+  {
+    "code": "DC63",
+    "description": "Cessazione attività - barrare nel caso di deduzione integrale delle perdite per cessazione attività"
+  },
+  {
+    "code": "DC140",
+    "description": "Conservazione elettronica documenti rilevanti ai fini tributari (RS140)  - Obbligatorio ( valori ammessi 1 o 2) se soggetto con Partita IVA"
+  },
+  {
+    "code": "DC170",
+    "description": "Codice stato estero → rif. Istruzioni ministeriali - tabella “Elenco paesi e territori esteri”"
+  },
+  {
+    "code": "DC51",
+    "description": "Domicilio fiscale anno precedente - Codice comune"
+  },
+  {
+    "code": "DC52",
+    "description": "Domicilio fiscale anno precedente - Fusione comuni"
+  },
+  {
+    "code": "DC55",
+    "description": "Domicilio fiscale anno corrente - Codice comune"
+  },
+  {
+    "code": "DC56",
+    "description": "Domicilio fiscale anno corrente - Fusione comuni"
+  },
+  {
+    "code": "DCICF",
+    "description": "Conto Fiscale"
+  },
+  {
+    "code": "RR5.1",
+    "description": "Codice Reddito"
+  },
+  {
+    "code": "RR5.1A",
+    "description": "Aliquota"
+  },
+  {
+    "code": "RR5.2",
+    "description": "Reddito"
+  },
+  {
+    "code": "RR5.3",
+    "description": "Codice Reddito"
+  },
+  {
+    "code": "RR5.3A",
+    "description": "Aliquota"
+  },
+  {
+    "code": "RR5.4",
+    "description": "Reddito"
+  },
+  {
+    "code": "RR5.5",
+    "description": "Codice Reddito"
+  },
+  {
+    "code": "RR5.5A",
+    "description": "Aliquota"
+  },
+  {
+    "code": "RR5.6",
+    "description": "Reddito"
+  },
+  {
+    "code": "RR5.7",
+    "description": "Codice Reddito"
+  },
+  {
+    "code": "RR5.7A",
+    "description": "Aliquota"
+  },
+  {
+    "code": "RR5.8",
+    "description": "Reddito"
+  },
+  {
+    "code": "RR5.9",
+    "description": "Codice Reddito"
+  },
+  {
+    "code": "RR5.9A",
+    "description": "Aliquota"
+  },
+  {
+    "code": "RR5.10",
+    "description": "Reddito"
+  },
+  {
+    "code": "RR5.12A",
+    "description": "Inizio Periodo 24%"
+  },
+  {
+    "code": "RR5.13A",
+    "description": "Fine Periodo 24%"
+  },
+  {
+    "code": "RR5.12B",
+    "description": "Inizio Periodo 25,72%"
+  },
+  {
+    "code": "RR5.13B",
+    "description": "Fine Periodo 25,72%"
+  },
+  {
+    "code": "RR0.1.X",
+    "description": "0 = “Artigiano” o 1 = “Commerciante”"
+  },
+  {
+    "code": "RR0.2.X",
+    "description": "Codice sede INPS (necessario al programma per la delega F24) → campo obbligatorio"
+  },
+  {
+    "code": "RR1.1.X",
+    "description": "Codice azienda INPS → 10 caratteri (il primo carattere deve essere “1” o “2”) → campo obbligatorio"
+  },
+  {
+    "code": "RR1.2.X",
+    "description": "Attività particolari → se compilato non possono essere compilati i campi RR2.10, RR2.11, RR2.12, RR2.13, RR3.10, RR3.11, RR3.12, RR3.13"
+  },
+  {
+    "code": "RR1.3.X",
+    "description": "Quote di partecipazione"
+  },
+  {
+    "code": "RR2.00.X",
+    "description": "Tipologia iscritto → campo obbligatorio"
+  },
+  {
+    "code": "RR2.01.X",
+    "description": "Codice fiscale soggetto → campo obbligatorio, deve corrispondere a una persona fisica"
+  },
+  {
+    "code": "RR2.02.X",
+    "description": "Codice sede INPS → 17 caratteri, dato obbligatorio se compilato RR2.23 o RR2.24"
+  },
+  {
+    "code": "RR2.02A.X",
+    "description": "Codice INPS del soggetto (es. “10” per il titolare, “11” per il primo familiare)"
+  },
+  {
+    "code": "RR2.03.X",
+    "description": "Reddito d’impresa"
+  },
+  {
+    "code": "RR2.04.X",
+    "description": "Periodo IVS (dal)"
+  },
+  {
+    "code": "RR2.05.X",
+    "description": "Periodo IVS (al)"
+  },
+  {
+    "code": "RR2.06.X",
+    "description": "Lavoratori privi di anzianità contributiva al 31/12/1995"
+  },
+  {
+    "code": "RR2.07.X",
+    "description": "Tipo riduzione → obbligatorio se presente RR2.8 o RR2.9"
+  },
+  {
+    "code": "RR2.08.X",
+    "description": "Periodo riduzione (dal) → obbligatorio se presente RR2.7 o RR2.9"
+  },
+  {
+    "code": "RR2.09.X",
+    "description": "Periodo riduzione (al) → obbligatorio se presente RR2.7 o RR2.8"
+  },
+  {
+    "code": "RR2.10.X",
+    "description": "Reddito minimale → non può essere superiore a 15.710"
+  },
+  {
+    "code": "RR2.11.X",
+    "description": "Contributi IVS dovuti sul reddito minimale"
+  },
+  {
+    "code": "RR2.12.X",
+    "description": "Contributi maternità → non può essere maggiore di 12"
+  },
+  {
+    "code": "RR2.13.X",
+    "description": "Quote associative e oneri accessori"
+  },
+  {
+    "code": "RR2.14.X",
+    "description": "Contributi versati sul minimale (compresi quelli con scadenza successiva alla presentazione della dichiarazione)"
+  },
+  {
+    "code": "RR2.15.X",
+    "description": "Contributi compensati con crediti previdenziali (senza esposizione nel Mod. F24) → non può essere maggiore di RR2.11 + RR2.12"
+  },
+  {
+    "code": "RR2.18.X",
+    "description": "Credito di cui si chiede il rimborso"
+  },
+  {
+    "code": "RR2.20.X",
+    "description": "Credito del precedente anno"
+  },
+  {
+    "code": "RR2.21.X",
+    "description": "Credito del precedente anno (compensato nel mod. F24)"
+  },
+  {
+    "code": "RR2.23.X",
+    "description": "Reddito eccedente il minimale"
+  },
+  {
+    "code": "RR2.24.X",
+    "description": "Contributo IVS dovuto sul reddito che eccede il minimale"
+  },
+  {
+    "code": "RR2.25.X",
+    "description": "Contributi maternità (solo per attività di affittacamere) → può essere presente solo se compilato il campo RR1.2 e non può essere maggiore di 12"
+  },
+  {
+    "code": "RR2.26.X",
+    "description": "Contributi versati sul reddito che eccede il minimale (compresi quelli con scadenza successiva alla presentazione della dichiarazione)"
+  },
+  {
+    "code": "RR2.28.X",
+    "description": "Contributi compensati con crediti previdenziali (senza esposizione nel Mod. F24) → non può essere maggiore di RR2.24 + RR2.25"
+  },
+  {
+    "code": "RR2.34.X",
+    "description": "Credito del precedente anno"
+  },
+  {
+    "code": "RR2.35.X",
+    "description": "Credito del precedente anno (col. 34) compensato nel Mod. F24"
+  },
+  {
+    "code": "RR3.00.X",
+    "description": "Tipologia iscritto → campo obbligatorio"
+  },
+  {
+    "code": "RR3.01.X",
+    "description": "Codice fiscale soggetto → campo obbligatorio, deve corrispondere a una persona fisica"
+  },
+  {
+    "code": "RR3.02.X",
+    "description": "Codice sede INPS → 17 caratteri, dato obbligatorio se compilato RR3.23 o RR3.24"
+  },
+  {
+    "code": "RR3.02A.X",
+    "description": "Codice INPS del soggetto (es. “10” per il titolare, “11” per il primo familiare)"
+  },
+  {
+    "code": "RR3.03.X",
+    "description": "Reddito d’impresa"
+  },
+  {
+    "code": "RR3.04.X",
+    "description": "Periodo IVS (dal)"
+  },
+  {
+    "code": "RR3.05.X",
+    "description": "Periodo IVS (al)"
+  },
+  {
+    "code": "RR3.06.X",
+    "description": "Lavoratori privi di anzianità contributiva al 31/12/1995"
+  },
+  {
+    "code": "RR3.07.X",
+    "description": "Tipo riduzione → obbligatorio se presente RR3.8 o RR3.9"
+  },
+  {
+    "code": "RR3.08.X",
+    "description": "Periodo riduzione (dal) → obbligatorio se presente RR3.7 o RR3.9"
+  },
+  {
+    "code": "RR3.09.X",
+    "description": "Periodo riduzione (al) → obbligatorio se presente RR3.7 o RR3.8"
+  },
+  {
+    "code": "RR3.10.X",
+    "description": "Reddito minimale → non può essere superiore a 15.710"
+  },
+  {
+    "code": "RR3.11.X",
+    "description": "Contributi IVS dovuti sul reddito minimale"
+  },
+  {
+    "code": "RR3.12.X",
+    "description": "Contributi maternità → non può essere maggiore di 12"
+  },
+  {
+    "code": "RR3.13.X",
+    "description": "Quote associative e oneri accessori"
+  },
+  {
+    "code": "RR3.14.X",
+    "description": "Contributi versati sul minimale (compresi quelli con scadenza successiva alla presentazione della dichiarazione)"
+  },
+  {
+    "code": "RR3.15.X",
+    "description": "Contributi compensati con crediti previdenziali (senza esposizione nel Mod. F24) → non può essere maggiore di RR3.11 + RR3.12"
+  },
+  {
+    "code": "RR3.18.X",
+    "description": "Credito di cui si chiede il rimborso"
+  },
+  {
+    "code": "RR3.20.X",
+    "description": "Credito del precedente anno"
+  },
+  {
+    "code": "RR3.21.X",
+    "description": "Credito del precedente anno (compensato nel mod. F24)"
+  },
+  {
+    "code": "RR3.23.X",
+    "description": "Reddito eccedente il minimale"
+  },
+  {
+    "code": "RR3.24.X",
+    "description": "Contributo IVS dovuto sul reddito che eccede il minimale"
+  },
+  {
+    "code": "RR3.25.X",
+    "description": "Contributi maternità (solo per attività di affittacamere) → può essere presente solo se compilato il campo RR1.2 e non può essere maggiore di 12"
+  },
+  {
+    "code": "RR3.26.X",
+    "description": "Contributi versati sul reddito che eccede il minimale (compresi quelli con scadenza successiva alla presentazione della dichiarazione)"
+  },
+  {
+    "code": "RR3.28.X",
+    "description": "Contributi compensati con crediti previdenziali (senza esposizione nel Mod. F24) → non può essere maggiore di RR3.24 + RR3.25"
+  },
+  {
+    "code": "RR3.34.X",
+    "description": "Credito del precedente anno"
+  },
+  {
+    "code": "RR3.35.X",
+    "description": "Credito del precedente anno (col. 34) compensato nel Mod. F24"
+  },
+  {
+    "code": "RWXX.01",
+    "description": "Codice titolo di possesso → campo obbligatorio"
+  },
+  {
+    "code": "RWXX.02",
+    "description": "1 = il contribuente è un soggetto delegato al prelievo o movimentazione del C/C, 2 = il contribuente risulta il titolare effettivo"
+  },
+  {
+    "code": "RWXX.03",
+    "description": "Codice individuazione bene → campo obbligatorio"
+  },
+  {
+    "code": "RWXX.04",
+    "description": "Codice stato estero → rif. Istruzioni ministeriali - tabella “Elenco paesi e territori esteri”"
+  },
+  {
+    "code": "RWXX.05",
+    "description": "Quota di possesso → campo obbligatorio"
+  },
+  {
+    "code": "RWXX.06",
+    "description": "Criterio determinazione valore → campo obbligatorio"
+  },
+  {
+    "code": "RWXX.07",
+    "description": "Valore iniziale → campo obbligatorio"
+  },
+  {
+    "code": "RWXX.08",
+    "description": "Valore finale"
+  },
+  {
+    "code": "RWXX.09",
+    "description": "Valore massimo c/c paesi non collaborativi"
+  },
+  {
+    "code": "RWXX.10",
+    "description": "Giorni (IVAFE)"
+  },
+  {
+    "code": "RWXX.11",
+    "description": "IVAFE"
+  },
+  {
+    "code": "RWXX.12",
+    "description": "Mesi (IVIE)"
+  },
+  {
+    "code": "RWXX.13",
+    "description": "IVIE"
+  },
+  {
+    "code": "RWXX.14",
+    "description": "Credito d’imposta"
+  },
+  {
+    "code": "RWXX.15",
+    "description": "IVAFE dovuta"
+  },
+  {
+    "code": "RWXX.16",
+    "description": "Detrazioni"
+  },
+  {
+    "code": "RWXX.17",
+    "description": "IVIE dovuta"
+  },
+  {
+    "code": "RWXX.18",
+    "description": "1 = compilazione quadro RL; 2 = compilazione quadro RM; 3 = compilazione quadro RT; 4 = compilazione contemporanea di due o tre quadri tra RL, RM e RT; 5 = redditi percepiti in un successivo periodo d’imposta"
+  },
+  {
+    "code": "RWXX.19",
+    "description": "Quota partecipazione"
+  },
+  {
+    "code": "RWXX.20",
+    "description": "Monitoraggio"
+  },
+  {
+    "code": "RWXX.21",
+    "description": "Codice fiscale o altra entità giuridica in caso di titolare effettivo"
+  },
+  {
+    "code": "RWXX.22",
+    "description": "Codice fiscale altri cointestatari"
+  },
+  {
+    "code": "RWXX.23",
+    "description": "Codice fiscale altri cointestatari"
+  },
+  {
+    "code": "RWXX.24",
+    "description": "1 = nel caso in cui i cointestatari siano più di due → può essere presente solo se sono presenti i campi RWXX.22 e RWXX23"
+  },
+  {
+    "code": "RP1.2",
+    "description": "Spese sanitarie"
+  },
+  {
+    "code": "RP1.1",
+    "description": "Spese sanitarie determinate patologie"
+  },
+  {
+    "code": "RP2",
+    "description": "Spese sanitarie familiari non a carico"
+  },
+  {
+    "code": "RP3",
+    "description": "Spese sanitarie disabili"
+  },
+  {
+    "code": "RP4.1",
+    "description": "Spese acquisito e ripar.veicoli per disabili - Nr.Rata"
+  },
+  {
+    "code": "RP4.2",
+    "description": "Spese acquisito e ripar.veicoli per disabili -Importo"
+  },
+  {
+    "code": "RP5.1",
+    "description": "Spese acquisto cani guida - Nr.Rata"
+  },
+  {
+    "code": "RP5.2",
+    "description": "Spese acquisto cani guida - Importo"
+  },
+  {
+    "code": "RP6.1.X",
+    "description": "Spese sanitarie rateizzate in precedenza - Nr.Rata"
+  },
+  {
+    "code": "RP6.2.X",
+    "description": "Spese sanitarie rateizzate in precedenza - Importo Rata"
+  },
+  {
+    "code": "RP7",
+    "description": "Mutuo abitazione principale"
+  },
+  {
+    "code": "RP8.8",
+    "description": "Mutuo altri immobili"
+  },
+  {
+    "code": "RP8.9",
+    "description": "Mutui 1997 recupero edilizio"
+  },
+  {
+    "code": "RP8.10",
+    "description": "Mutui costruzione abitazione principale"
+  },
+  {
+    "code": "RP8.11",
+    "description": "Prestiti o mutui agrari"
+  },
+  {
+    "code": "RP8.12.X",
+    "description": "Spese di istruzione per scuole d'infanzia e secondarie"
+  },
+  {
+    "code": "RP8.13",
+    "description": "Spese di istruzione universitaria"
+  },
+  {
+    "code": "RP8.14.X",
+    "description": "Spese funebri"
+  },
+  {
+    "code": "RP8.15",
+    "description": "Spese per addetti assistenza personale"
+  },
+  {
+    "code": "RP8.16.X",
+    "description": "Attività sportive dei ragazzi"
+  },
+  {
+    "code": "RP8.17",
+    "description": "Intermediazione immobiliare"
+  },
+  {
+    "code": "RP8.18",
+    "description": "Canoni locaz.studenti univ.fuori sede"
+  },
+  {
+    "code": "RP8.20",
+    "description": "Erogaz.popolazioni colpite da calamità pubbliche o altri eventi straord."
+  },
+  {
+    "code": "RP8.21",
+    "description": "Erogaz.ass.sportive dilettantistiche"
+  },
+  {
+    "code": "RP8.22",
+    "description": "Erogaz.società di mutuo soccorso"
+  },
+  {
+    "code": "RP8.24",
+    "description": "Erogazioni liberali a La Biennale VE"
+  },
+  {
+    "code": "RP8.25",
+    "description": "Beni in regime vincolistico"
+  },
+  {
+    "code": "RP8.26",
+    "description": "Erogazioni attività culturali e artistiche"
+  },
+  {
+    "code": "RP8.27",
+    "description": "Erogazioni enti spettacolo"
+  },
+  {
+    "code": "RP8.28",
+    "description": "Erogazioni fondazioni settore musicale"
+  },
+  {
+    "code": "RP8.29",
+    "description": "Spese veterinarie"
+  },
+  {
+    "code": "RP8.30",
+    "description": "Spese interprete dai sordi"
+  },
+  {
+    "code": "RP8.31",
+    "description": "Erogaz.liberali istituti scolastici"
+  },
+  {
+    "code": "RP8.32",
+    "description": "Riscatto laurea familiari a carico"
+  },
+  {
+    "code": "RP8.33.X",
+    "description": "Asili nido"
+  },
+  {
+    "code": "RP8.35",
+    "description": "Erogazioni Fondo ammortam. titoli stato"
+  },
+  {
+    "code": "RP8.36",
+    "description": "Assicurazione vita e infortuni"
+  },
+  {
+    "code": "RP8.38",
+    "description": "Assicurazioni tutela persone con disabilità grave"
+  },
+  {
+    "code": "RP8.39",
+    "description": "Assicurazioni non autosufficienza"
+  },
+  {
+    "code": "RP8.40",
+    "description": "Abbonamento servizi trasporto pubblico"
+  },
+  {
+    "code": "RP8.43",
+    "description": "Assicurazioni riscio eventi calamitosi"
+  },
+  {
+    "code": "RP8.44",
+    "description": "Spese minori o maggiorenni con DSA"
+  },
+  {
+    "code": "RP8.61",
+    "description": "Erogazioni alle Onlus"
+  },
+  {
+    "code": "RP8.62",
+    "description": "Erogazioni a partiti politici"
+  },
+  {
+    "code": "RP8.71",
+    "description": "Erogazioni alle ONLUS e APS"
+  },
+  {
+    "code": "RP8.72",
+    "description": "Erogazioni in favore dello Stato, delle Regioni, degli enti locali territoriali"
+  },
+  {
+    "code": "RP8.76",
+    "description": "Erogazioni alle OV"
+  },
+  {
+    "code": "RP8.81",
+    "description": "Premi per rischio eventi calamitosi per assicurazioni stipulate contestualmente alla cessione del credito d’imposta relativo agli interventi sisma bonus al 110% ad un’impresa di assicurazione"
+  },
+  {
+    "code": "RP8.99",
+    "description": "Altre spese detraibili al 19%"
+  },
+  {
+    "code": "RP14.1",
+    "description": "Spese canoni leasing - Data stipula"
+  },
+  {
+    "code": "RP14.2",
+    "description": "Spese canoni leasing - Numero anno"
+  },
+  {
+    "code": "RP14.3",
+    "description": "Spese canoni leasing - Importo canone"
+  },
+  {
+    "code": "RP14.4",
+    "description": "Spese canoni leasing - Prezzo di riscatto"
+  },
+  {
+    "code": "RP21",
+    "description": "Contributi previdenziali e assistenziali"
+  },
+  {
+    "code": "RP22.1",
+    "description": "Assegno periodico al coniuge - Codice fiscale"
+  },
+  {
+    "code": "RP22.2",
+    "description": "Assegno periodico al coniuge - Importo"
+  },
+  {
+    "code": "RP23",
+    "description": "Addetti servizi domestici e familiari"
+  },
+  {
+    "code": "RP24",
+    "description": "Erogazioni istituzioni religiose"
+  },
+  {
+    "code": "RP25",
+    "description": "Spese mediche e assistenza disabili"
+  },
+  {
+    "code": "RP26.6",
+    "description": "Fondi integrativi al SSN"
+  },
+  {
+    "code": "RP26.7",
+    "description": "Contributi Onlus paesi via di sviluppo"
+  },
+  {
+    "code": "RP26.8",
+    "description": "Liberalità onlus"
+  },
+  {
+    "code": "RP26.9",
+    "description": "Erogazioni enti universitari, ricerca pubblica, ecc..."
+  },
+  {
+    "code": "RP26.12",
+    "description": "Erogazioni liberali... a trust o fondi speciali"
+  },
+  {
+    "code": "RP26.13",
+    "description": "Contributi dai pensionati a casse di assistenza"
+  },
+  {
+    "code": "RP26.21",
+    "description": "Altri oneri deducibili"
+  },
+  {
+    "code": "RP27.1",
+    "description": "Prev.Complementare - Deducibilità ordinaria - Dedotti dal sost."
+  },
+  {
+    "code": "RP27.2",
+    "description": "Prev.Complementare - Deducibilità ordinaria - Non dedotti dal sost."
+  },
+  {
+    "code": "RP28.1",
+    "description": "Prev.Complementare - Lavoratori di prima occupaz. - Dedotti dal sost."
+  },
+  {
+    "code": "RP28.2",
+    "description": "Prev.Complementare - Lavoratori di prima occupaz. - Non dedotti dal sost."
+  },
+  {
+    "code": "RP28.3",
+    "description": "Prev.Complementare - Lavoratori di prima occupaz. - Soggetto fisc.a carico"
+  },
+  {
+    "code": "RP29.1",
+    "description": "Prev.Complementare - Fondi in squilibrio finanziario - Dedotti dal sost."
+  },
+  {
+    "code": "RP29.2",
+    "description": "Prev.Complementare - Fondi in squilibrio finanziario - Non dedotti dal sost."
+  },
+  {
+    "code": "RP29.3",
+    "description": "Prev.Complementare - Fondi in squilibrio finanziario - Soggetto fisc.a carico"
+  },
+  {
+    "code": "RP30.1",
+    "description": "Prev.Complementare - Familiari a carico - Dedotti dal sost."
+  },
+  {
+    "code": "RP30.2",
+    "description": "Prev.Complementare - Familiari a carico - Non dedotti dal sost."
+  },
+  {
+    "code": "RP32.1.X",
+    "description": "Acquisto o costruz.abitazioni date in locaz. - Data stipula locazione"
+  },
+  {
+    "code": "RP32.2.X",
+    "description": "Acquisto o costruz.abitazioni date in locaz. - Spesa"
+  },
+  {
+    "code": "RP32.3.X",
+    "description": "Acquisto o costruz.abitazioni date in locaz. - Interessi"
+  },
+  {
+    "code": "RP33.1",
+    "description": "Somme restituite al soggetto erogatore - Restituite nell'anno 2018"
+  },
+  {
+    "code": "RP33.2",
+    "description": "Somme restituite al soggetto erogatore - Residuo precedente dichiarazione"
+  },
+  {
+    "code": "RP34.1.X",
+    "description": "Investimenti in start-up - Deducibili - Codice fiscale"
+  },
+  {
+    "code": "RP34.2.X",
+    "description": "Investimenti in start-up - Deducibili - Importo"
+  },
+  {
+    "code": "RP34.4",
+    "description": "Investimenti in start-up - Deducibili - Residuo da RPF 2018"
+  },
+  {
+    "code": "RP34.5",
+    "description": "Investimenti in start-up - Deducibili - Residuo da RPF 2017"
+  },
+  {
+    "code": "RP34.6",
+    "description": "Investimenti in start-up - Deducibili - Residuo da RPF 2016"
+  },
+  {
+    "code": "RP36.1",
+    "description": "Erogazioni ONLUS, OV e APS - Deduzione ricevuta"
+  },
+  {
+    "code": "RP36.2",
+    "description": "Erogazioni ONLUS, OV e APS - Deduzione propria"
+  },
+  {
+    "code": "RP41.1.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Anno"
+  },
+  {
+    "code": "RP41.2.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Tipologia"
+  },
+  {
+    "code": "RP41.3.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - C.F."
+  },
+  {
+    "code": "RP41.4.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Int.part."
+  },
+  {
+    "code": "RP41.5.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Acq.,eredità, don."
+  },
+  {
+    "code": "RP41.6.X",
+    "description": "Maggiorazione sisma"
+  },
+  {
+    "code": "RP41.7.X",
+    "description": "Casella 110%"
+  },
+  {
+    "code": "RP41.9.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Importo spesa"
+  },
+  {
+    "code": "RP41.11.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Nr.Immobile"
+  },
+  {
+    "code": "RP51.1.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Nr.Immobile"
+  },
+  {
+    "code": "RP51.2.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Condominio"
+  },
+  {
+    "code": "RP51.3.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Cod.Comune"
+  },
+  {
+    "code": "RP51.4.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Tipo di catasto"
+  },
+  {
+    "code": "RP51.5.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Sezione"
+  },
+  {
+    "code": "RP51.6.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Foglio"
+  },
+  {
+    "code": "RP51.7.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Particella"
+  },
+  {
+    "code": "RP51.8.X",
+    "description": "Spese recupero patrimonio edilizio, antisismico, bonus verde - Subalterno"
+  },
+  {
+    "code": "RP53.3.X",
+    "description": "Sp.rec.patr.edil. - Estremi registrazione contratto - Data"
+  },
+  {
+    "code": "RP53.4.X",
+    "description": "Sp.rec.patr.edil. - Estremi registrazione contratto - Serie"
+  },
+  {
+    "code": "RP53.5.X",
+    "description": "Sp.rec.patr.edil. - Estremi registrazione contratto - Nr.e sottonumero"
+  },
+  {
+    "code": "RP53.6.X",
+    "description": "Sp.rec.patr.edil. - Estremi registrazione contratto - Codice ufficio AE"
+  },
+  {
+    "code": "RP53.7.X",
+    "description": "Sp.rec.patr.edil. - Codice identificativo contratto"
+  },
+  {
+    "code": "RP53.8.X",
+    "description": "Sp.rec.patr.edil. - Domanda accatastamento - Data"
+  },
+  {
+    "code": "RP53.9.X",
+    "description": "Sp.rec.patr.edil. - Domanda accatastamento - Numero"
+  },
+  {
+    "code": "RP53.10.X",
+    "description": "Sp.rec.patr.edil. - Domanda accatastamento - Provincia ufficio AE"
+  },
+  {
+    "code": "RP56.1.X",
+    "description": "Pace contributiva o colonnine per la ricarica - Codice"
+  },
+  {
+    "code": "RP56.2.X",
+    "description": "Pace contributiva o colonnine per la ricarica - Anno"
+  },
+  {
+    "code": "RP56.3.X",
+    "description": "Pace contributiva o colonnine per la ricarica - Importo"
+  },
+  {
+    "code": "RP56.5.X",
+    "description": "Pace contributiva o colonnine per la ricarica - Codice Fiscale"
+  },
+  {
+    "code": "RP57.1.X",
+    "description": "Spese arredo immobili ristrutturati - Anno"
+  },
+  {
+    "code": "RP57.2.X",
+    "description": "Spese arredo immobili ristrutturati - Importo"
+  },
+  {
+    "code": "RP58.1",
+    "description": "Spese arredo immobili giovani coppie - Casella \"Meno di 35 anni"
+  },
+  {
+    "code": "RP58.2",
+    "description": "Spese arredo immobili giovani coppie - Importo"
+  },
+  {
+    "code": "RP59.1.X",
+    "description": "IVA acquisto abitazione principale cl.energetica A o B - Anno"
+  },
+  {
+    "code": "RP59.2.X",
+    "description": "IVA acquisto abitazione principale cl.energetica A o B - Importo IVA pagata"
+  },
+  {
+    "code": "RP61.0.X",
+    "description": "Specificare un codice identificativo per il fabbricato."
+  },
+  {
+    "code": "RP61.1.X",
+    "description": "Risparmio energetico - Tipo intervento"
+  },
+  {
+    "code": "RP61.2.X",
+    "description": "Risparmio energetico - Anno"
+  },
+  {
+    "code": "RP61.3.X",
+    "description": "Risparmio energetico - Periodo 2013"
+  },
+  {
+    "code": "RP61.4.X",
+    "description": "Risparmio energetico - Casi particolari"
+  },
+  {
+    "code": "RP61.5.X",
+    "description": "Risparmio energetico - Periodo 2008 rideterminazione rate"
+  },
+  {
+    "code": "RP61.6.X",
+    "description": "Risparmio energetico - Casella 110%"
+  },
+  {
+    "code": "RP61.8.X",
+    "description": "Risparmio energetico - Spesa totale"
+  },
+  {
+    "code": "RP61.9.X",
+    "description": "Risparmio energetico - Maggiorazione sisma"
+  },
+  {
+    "code": "RP71.1.X",
+    "description": "Detrazioni canoni locazione - Abitazione principale - Tipologia"
+  },
+  {
+    "code": "RP71.2.X",
+    "description": "Detrazioni canoni locazione - Abitazione principale - Nr.Giorni"
+  },
+  {
+    "code": "RP71.3.X",
+    "description": "Detrazioni canoni locazione - Abitazione principale - %"
+  },
+  {
+    "code": "RP72.1.X",
+    "description": "Detrazioni canoni locazione - Trasf.residenza per lavoro - Nr.Giorni"
+  },
+  {
+    "code": "RP72.2.X",
+    "description": "Detrazioni canoni locazione - Trasf.residenza per lavoro - %"
+  },
+  {
+    "code": "RP73",
+    "description": "Detrazioni canoni locazione - Terreni agricoli ai giovani"
+  },
+  {
+    "code": "RP80.1.X",
+    "description": "Investimenti in start-up - Detraibili - Codice fiscale"
+  },
+  {
+    "code": "RP80.1A.X",
+    "description": "Investimenti in start-up - Detraibili - Codice identificativo estero"
+  },
+  {
+    "code": "RP80.2.X",
+    "description": "Investimenti in start-up - Detraibili - Tipologia investimento"
+  },
+  {
+    "code": "RP80.3.X",
+    "description": "Investimenti in start-up - Detraibili - Ammontare investimento"
+  },
+  {
+    "code": "RP80.4.X",
+    "description": "Investimenti in start-up - Detraibili - Codice tipo"
+  },
+  {
+    "code": "RP80.7",
+    "description": "Decadenza start-up - Interessi su detrazione fruita"
+  },
+  {
+    "code": "RP80.8",
+    "description": "Decadenza start-up - Detrazione fruita"
+  },
+  {
+    "code": "RP80.9",
+    "description": "Decadenza start-up - Eccedenza di detrazione"
+  },
+  {
+    "code": "RP80.10",
+    "description": "Residui da RN47.1 di RPF 2018"
+  },
+  {
+    "code": "RP80.11",
+    "description": "Residui da RN47.2 di RPF 2018"
+  },
+  {
+    "code": "RP80.12",
+    "description": "Residui da RN47.3 di RPF 2018"
+  },
+  {
+    "code": "RP82",
+    "description": "Mantenimento dei cani guida"
+  },
+  {
+    "code": "RP83.1.X",
+    "description": "Altre Detrazioni - Codice"
   }
 ]
