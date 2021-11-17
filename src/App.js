@@ -6,6 +6,7 @@ import { ParserQuadri } from "./ParserQuadri";
 import { FormGenerator } from "./FormGenerator";
 import { TrovaDipendenze } from "./TrovaDipendenze";
 import { TrattamentiMida } from "./TrattamentiMida";
+import { TrelloDashboard } from "./TrelloDashboard";
 // import {FetchQuadro} from './FetchQuadro';
 // import { ReduceExample } from './ReduceExample';
 
@@ -20,6 +21,7 @@ function App() {
         <button onClick={() => setComponent(2)}>Quadro Autogenerato</button>
         <button onClick={() => setComponent(3)}>Dipendenze Campi</button>
         <button onClick={() => setComponent(4)}>Trattamenti MIDA</button>
+        <button onClick={() => setComponent(5)}>Trello</button>
       </div>
 
       {(() => {
@@ -34,6 +36,8 @@ function App() {
             return <TrovaDipendenze></TrovaDipendenze>;
             case 4:
               return <TrattamentiMida></TrattamentiMida>;
+              case 5:
+                return <TrelloDashboard></TrelloDashboard>;
           default:
             return <Home></Home>;
         }
