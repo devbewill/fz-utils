@@ -205,3 +205,52 @@ TROVA DIPENDENZE
     }
   }
 }
+
+/* #######################
+TRELLO 
+########################## */
+
+.trelloDash {
+  background: #8940ff;
+  color: #fff;
+  margin: 3em 0;
+  display: flex;
+  width: 100vw;
+  flex-wrap: nowrap;
+  justify-content: space-around;
+  min-height: 80vh;
+
+  h1 {
+    font-weight: 200;
+    font-size: 2rem;
+    padding-bottom: 1em;
+    span {
+      display: inline-block;
+      font-size: 2rem;
+      font-weight: bold;
+      color: #f3cd0d;
+    }
+  }
+
+  .list {
+    padding: 2em 3em;
+  }
+  .task {
+    line-height: 1;
+    font-weight: 400;
+    padding: 0.5em;
+    border: 0;
+    border-bottom: 1px solid rgb(216, 216, 216);
+
+    h3 {
+      margin: 0;
+      padding: 0.2em 0;
+      font-size: 1.5rem;
+      font-weight: 800;
+    }
+    p {
+      margin: 0;
+      font-size: 0.9rem;
+    }
+  }
+}

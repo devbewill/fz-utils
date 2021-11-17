@@ -59,7 +59,7 @@ export const TrelloDashboard = () => {
   let listName;
 
   return (
-    <div>
+    <div className="trelloDash">
       {Object.entries(splitByCard).map((list, i) => {
         console.log(list);
         if (list[0] == "606f1a2bebb5fb53804dd3d5") {
@@ -70,16 +70,16 @@ export const TrelloDashboard = () => {
           listName = "DONE";
         }
         return (
-          <div>
+          <div className="list">
             <h1>
-              {listName} {list[1].length}
+              {listName} <span>{list[1].length}</span>
             </h1>
             {Object.entries(list[1]).map((card, i) => {
-              const { name, description } = card[1];
+              const { name, desc } = card[1];
               return (
-                <div key={i}>
-                  <span>{name}</span>
-                  <span>{description}</span>
+                <div key={i} className="task">
+                  <h3>{name}</h3>
+                  <p>{desc}</p>
                   <p></p>
                 </div>
               );
