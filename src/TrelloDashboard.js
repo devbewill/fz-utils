@@ -56,20 +56,31 @@ export const TrelloDashboard = () => {
   }, [setCards, setLists]);
 
   let splitByCard = groupByKey(cards, "idList");
-
-  console.log(lists);
-  console.log(cards);
+  let listName;
 
   return (
     <div>
       {Object.entries(splitByCard).map((list, i) => {
+        console.log(list);
+        if (list[0] == "606f1a2bebb5fb53804dd3d5") {
+          listName = "TO DO";
+        } else if (list[0] == "606f1a4ed2ff554e4ea11b82") {
+          listName = "IN PROGRESS";
+        } else {
+          listName = "DONE";
+        }
         return (
           <div>
-            <h1>{list[0]}</h1>
+            <h1>
+              {listName} {list[1].length}
+            </h1>
             {Object.entries(list[1]).map((card, i) => {
+              const { name, description } = card[1];
               return (
-                <div>
-                  <span>{card[1].name}</span>
+                <div key={i}>
+                  <span>{name}</span>
+                  <span>{description}</span>
+                  <p></p>
                 </div>
               );
             })}
