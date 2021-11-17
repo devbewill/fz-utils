@@ -5,6 +5,15 @@ export const TrelloDashboard = () => {
   const trello = new Trello("42cd6a54f624ac7948e46f5198e4a94b");
   const [cards, setCards] = useState([]);
 
+  const groupByKey = (array, key) => {
+    return array.reduce((hash, obj) => {
+      if (obj[key] === undefined) return hash;
+      return Object.assign(hash, {
+        [obj[key]]: (hash[obj[key]] || []).concat(obj),
+      });
+    }, {});
+  };
+
   useEffect(() => {
     Promise.resolve()
       .then(() => localStorage.getItem("token"))
@@ -42,34 +51,27 @@ export const TrelloDashboard = () => {
       });
   }, [setCards]);
 
-  function groupByKey(array, key) {
-    return array.reduce((hash, obj) => {
-      if (obj[key] === undefined) return hash;
-      return Object.assign(hash, {
-        [obj[key]]: (hash[obj[key]] || []).concat(obj),
-      });
-    }, {});
-  }
+  let splitByCard = groupByKey(cards, "idList");
 
-  var result = groupByKey(cards, "idList");
-
-  console.log(result);
+  console.log(cards);
 
   return (
     <div>
-      {/* <h1>{cards.count}</h1>
-      {cards.map((card, i) => {
-        const { name, idList, description } = card;
-        // if (field.field.startsWith("FA")) lmFields++;
-        // totalFields++;
-
+      {Object.entries(splitByCard).map((list, i) => {
         return (
           <div>
-            {name}
-            {idList}
+            {console.log(list[0])}
+            <h1>{list[0]}</h1>
+            {Object.entries(list[1]).map((card, i) => {
+              return (
+                <div>
+                  <span>{card[1].name}</span>
+                </div>
+              );
+            })}
           </div>
         );
-      })} */}
+      })}
     </div>
   );
 };
