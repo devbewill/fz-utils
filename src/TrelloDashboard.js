@@ -3,6 +3,7 @@ import React, { useState, useEffect } from "react";
 export const TrelloDashboard = () => {
   const Trello = require("trello-web");
   const trello = new Trello("42cd6a54f624ac7948e46f5198e4a94b");
+  const [lists, setLists] = useState([]);
   const [cards, setCards] = useState([]);
 
   const groupByKey = (array, key) => {
@@ -37,8 +38,11 @@ export const TrelloDashboard = () => {
         //   fields: 'username,id,email'
         // })
         // trello.get('/1/members/me/boards').then(console.log)
-        // trello.get('/1/boards/0retKS6l').then(console.log)
-        // trello.get("/1/boards/0retKS6l/cards").then(console.log)
+        trello.get("/1/boards/0retKS6l/lists").then((data) => {
+          setLists(data);
+        })
+      )
+      .then(() =>
         trello.get("/1/boards/0retKS6l/cards").then((data) => {
           setCards(data);
         })
@@ -49,10 +53,11 @@ export const TrelloDashboard = () => {
           e
         );
       });
-  }, [setCards]);
+  }, [setCards, setLists]);
 
   let splitByCard = groupByKey(cards, "idList");
 
+  console.log(lists);
   console.log(cards);
 
   return (
@@ -60,7 +65,6 @@ export const TrelloDashboard = () => {
       {Object.entries(splitByCard).map((list, i) => {
         return (
           <div>
-            {console.log(list[0])}
             <h1>{list[0]}</h1>
             {Object.entries(list[1]).map((card, i) => {
               return (
