@@ -1,8 +1,8 @@
 import React, { useState, useEffect } from "react";
 
 export const TrelloDashboard = () => {
-  const TRELLO_TOKEN =
-    "262f10ddc7962d28d4b472bc17c46e39c069a401a54abc269014c209f378f83e";
+  // const TRELLO_TOKEN =
+  //   "262f10ddc7962d28d4b472bc17c46e39c069a401a54abc269014c209f378f83e";
   const TRELLO_KEY = "42cd6a54f624ac7948e46f5198e4a94b";
   const Trello = require("trello-web");
   const trello = new Trello(TRELLO_KEY);
@@ -56,7 +56,7 @@ export const TrelloDashboard = () => {
           e
         );
       });
-  }, [setCards, setLists]);
+  }, [ setCards, setLists]);
 
   let splitByCard = groupByKey(cards, "idList");
   let listName;
@@ -64,23 +64,23 @@ export const TrelloDashboard = () => {
   return (
     <div className="trelloDash">
       {Object.entries(splitByCard).map((list, i) => {
-        console.log(list);
-        if (list[0] == "606f1a2bebb5fb53804dd3d5") {
+
+        if (list[0] === "606f1a2bebb5fb53804dd3d5") {
           listName = "TO DO";
-        } else if (list[0] == "606f1a4ed2ff554e4ea11b82") {
+        } else if (list[0] === "606f1a4ed2ff554e4ea11b82") {
           listName = "IN PROGRESS";
         } else {
           listName = "DONE";
         }
         return (
-          <div className="list">
+          <div key={i} className="list">
             <h1>
               {listName} <span>{list[1].length}</span>
             </h1>
             {Object.entries(list[1]).map((card, i) => {
               const { name, desc } = card[1];
               return (
-                <div key={i} className="task">
+                <div key={i} className="task" >
                   <h3>{name}</h3>
                   <p>{desc}</p>
                   <p></p>

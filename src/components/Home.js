@@ -42,7 +42,7 @@ export const Home = () => {
 
         <div className="item">
           <h2>Dipendenze dei campi (WIP)</h2>
-          <p>
+          <div>
             In questa lista vengono mostratii campi della dichiarazione con un
             focus sulla complessità del singolo campo. La complessità si basa su
             una scala di 3 valori:
@@ -57,7 +57,7 @@ export const Home = () => {
                 <strong>Strong</strong>: Varie dipendenze diverse
               </li>
             </ul>
-          </p>
+          </div>
         </div>
       </div>
     </div>

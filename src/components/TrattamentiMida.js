@@ -3,10 +3,11 @@ import data from "../json/trattamentiMida.json";
 import dataDesc from "../json/trattamentiMidaDescription.json";
 
 export const TrattamentiMida = () => {
-  const [loading, setLoading] = useState(true);
-  const [fiscalElements, setfiscalelements] = useState(data.fiscal_elements);
-  const [fiscalElementsData, setfiscalelementsData] = useState(dataDesc)
-  let label;
+  // const [loading, setLoading] = useState(true);
+  let fiscalElements = data.fiscal_elements
+  let fiscalElementsData = dataDesc
+  // const [fiscalElements, setfiscalelements] = useState(data.fiscal_elements);
+  // const [fiscalElementsData, setfiscalelementsData] = useState(dataDesc)
 
   useEffect(() => {}, []);
 
