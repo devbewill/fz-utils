@@ -1,0 +1,380 @@
+[
+  {
+    "count": 1915,
+    "section": "LM022",
+    "column": "001",
+    "description": "Codice Attivita'"
+  },
+  {
+    "count": 1915,
+    "section": "LM022",
+    "column": "002",
+    "description": "Coefficiente di redditivita' - Percentuale"
+  },
+  {
+    "count": 1915,
+    "section": "LM021",
+    "column": "001",
+    "description": "Sussistenza Requisiti accesso regime"
+  },
+  {
+    "count": 1915,
+    "section": "LM021",
+    "column": "002",
+    "description": "Assenza cause Ostative Applicazione Regime"
+  },
+  {
+    "count": 1857,
+    "section": "LM042",
+    "column": "001",
+    "description": "Differenza"
+  },
+  {
+    "count": 1755,
+    "section": "LM034",
+    "column": "003",
+    "description": "Reddito Lordo"
+  },
+  {
+    "count": 1754,
+    "section": "LM022",
+    "column": "003",
+    "description": "Totale componenti positivi"
+  },
+  {
+    "count": 1735,
+    "section": "LM036",
+    "column": "001",
+    "description": "Reddito Netto"
+  },
+  {
+    "count": 1734,
+    "section": "LM039",
+    "column": "001",
+    "description": "Imposta Sostitutiva"
+  },
+  {
+    "count": 1708,
+    "section": "LM020",
+    "column": "002",
+    "description": "Casella Autonomo"
+  },
+  {
+    "count": 1668,
+    "section": "LM046",
+    "column": "001",
+    "description": "Imposta a Debito"
+  },
+  {
+    "count": 1518,
+    "section": "LM021",
+    "column": "003",
+    "description": "Nuova Attivita'"
+  },
+  {
+    "count": 1173,
+    "section": "LM038",
+    "column": "001",
+    "description": "Reddito Netto Perdite Soggette Imposta Sostitu."
+  },
+  {
+    "count": 771,
+    "section": "LM035",
+    "column": "002",
+    "description": "Contributi Previdenziali Assistenziali"
+  },
+  {
+    "count": 749,
+    "section": "LM034",
+    "column": "002",
+    "description": "Reddito Lordo - Gestione separata autonomi"
+  },
+  {
+    "count": 624,
+    "section": "LM045",
+    "column": "002",
+    "description": "Acconti"
+  },
+  {
+    "count": 597,
+    "section": "LM035",
+    "column": "001",
+    "description": "Contrib. Previde. assistenziali Versati Periodo"
+  },
+  {
+    "count": 562,
+    "section": "LM038",
+    "column": "001",
+    "description": "Redd. Netto Perdite Soggette Imposta Sostit."
+  },
+  {
+    "count": 363,
+    "section": "LM034",
+    "column": "002",
+    "description": "Reddito Lordo -Gestione separata autonomi"
+  },
+  {
+    "count": 207,
+    "section": "LM020",
+    "column": "001",
+    "description": "Casella Impresa"
+  },
+  {
+    "count": 200,
+    "section": "LM047",
+    "column": "001",
+    "description": "Imposta a Credito"
+  },
+  {
+    "count": 174,
+    "section": "LM035",
+    "column": "001",
+    "description": "Contri.Previd. assistenziali Versati Periodo"
+  },
+  {
+    "count": 152,
+    "section": "LM001",
+    "column": "001",
+    "description": "Codice attivita'"
+  },
+  {
+    "count": 132,
+    "section": "LM006",
+    "column": "001",
+    "description": "Reddito lordo o perdita"
+  },
+  {
+    "count": 132,
+    "section": "LM002",
+    "column": "001",
+    "description": "Totale componenti positivi"
+  },
+  {
+    "count": 132,
+    "section": "LM004",
+    "column": "001",
+    "description": "Differenza"
+  },
+  {
+    "count": 130,
+    "section": "LM000",
+    "column": "002",
+    "description": "Casella Autonomo"
+  },
+  {
+    "count": 127,
+    "section": "LM008",
+    "column": "001",
+    "description": "Reddito netto"
+  },
+  {
+    "count": 124,
+    "section": "LM011",
+    "column": "001",
+    "description": "Imposta sostitutiva 5%"
+  },
+  {
+    "count": 120,
+    "section": "LM005",
+    "column": "005",
+    "description": "Totale componenti negativi"
+  },
+  {
+    "count": 117,
+    "section": "LM034",
+    "column": "001",
+    "description": "Reddito Lordo - Artigiani e commercianti"
+  },
+  {
+    "count": 112,
+    "section": "LM007",
+    "column": "002",
+    "description": "Contributi previdenziali e assistenziali (2)"
+  },
+  {
+    "count": 112,
+    "section": "LM007",
+    "column": "001",
+    "description": "Contributi previdenziali e assistenziali (1)"
+  },
+  {
+    "count": 88,
+    "section": "LM044",
+    "column": "001",
+    "description": "Ecced. Impo. Risult. Preced. Dich. Comp. F24"
+  },
+  {
+    "count": 70,
+    "section": "LM043",
+    "column": "001",
+    "description": "Eccedenza Imposta risultante Preced. Dichiaraz."
+  },
+  {
+    "count": 66,
+    "section": "LM010",
+    "column": "001",
+    "description": "Redd. Netto Perdite Soggette Impo. Sostitut."
+  },
+  {
+    "count": 59,
+    "section": "LM010",
+    "column": "001",
+    "description": "Redd. Netto Perdite Soggette Imposta Sostituti."
+  },
+  {
+    "count": 53,
+    "section": "LM043",
+    "column": "001",
+    "description": "Eccedenza Imposta risultante Preced. Dichia."
+  },
+  {
+    "count": 42,
+    "section": "LM034",
+    "column": "001",
+    "description": "Reddito Lordo -Artigiani e commercianti"
+  },
+  {
+    "count": 22,
+    "section": "LM000",
+    "column": "001",
+    "description": "Casella Impresa"
+  },
+  {
+    "count": 21,
+    "section": "LM041",
+    "column": "001",
+    "description": "Ritenute Consorzio"
+  },
+  {
+    "count": 15,
+    "section": "LM049",
+    "column": "001",
+    "description": "Eccedenza Contr. Previd. di cui rigo LM7 e LM35"
+  },
+  {
+    "count": 10,
+    "section": "LM023",
+    "column": "001",
+    "description": "Codice Attivita'"
+  },
+  {
+    "count": 10,
+    "section": "LM023",
+    "column": "002",
+    "description": "Coefficiente di redditivita' - Percentuale"
+  },
+  {
+    "count": 7,
+    "section": "LM023",
+    "column": "003",
+    "description": "Totale componenti positivi"
+  },
+  {
+    "count": 7,
+    "section": "LM009",
+    "column": "003",
+    "description": "Perdite pregresse"
+  },
+  {
+    "count": 5,
+    "section": "LM049",
+    "column": "001",
+    "description": "Eccedenza contr.prev. di cui rigo LM7 e LM35"
+  },
+  {
+    "count": 4,
+    "section": "LM050",
+    "column": "006",
+    "description": "Perdite non compensate - Eccedenza 2018"
+  },
+  {
+    "count": 4,
+    "section": "LM023",
+    "column": "005",
+    "description": "Reddito per attivita'"
+  },
+  {
+    "count": 3,
+    "section": "LM050",
+    "column": "005",
+    "description": "Perdite non compensate - Eccedenza 2017"
+  },
+  {
+    "count": 3,
+    "section": "LM023",
+    "column": "004",
+    "description": "Reddito per attivita'"
+  },
+  {
+    "count": 2,
+    "section": "LM037",
+    "column": "006",
+    "description": "Perdite pregresse"
+  },
+  {
+    "count": 2,
+    "section": "LM050",
+    "column": "004",
+    "description": "Perdite non compensate - Eccedenza 2016"
+  },
+  {
+    "count": 1,
+    "section": "LM009",
+    "column": "001",
+    "description": "Perdite pregresse-di cui Misura limitata 80%"
+  },
+  {
+    "count": 1,
+    "section": "LM022",
+    "column": "004",
+    "description": "Diritto Autore Correlati"
+  },
+  {
+    "count": 1188,
+    "section": "LM022",
+    "column": "005",
+    "description": "Reddito per attivita'"
+  },
+  {
+    "count": 1,
+    "section": "LM050",
+    "column": "006",
+    "description": "Perdite non compensate - Eccedenza 2019"
+  },
+  {
+    "count": 1,
+    "section": "LM040",
+    "column": "002",
+    "description": "Crediti di Imposta - Redditi prodotti Estero"
+  },
+  {
+    "count": 1,
+    "section": "LM003",
+    "column": "001",
+    "description": "Rimanenze finali"
+  },
+  {
+    "count": 1,
+    "section": "LM040",
+    "column": "015",
+    "description": "Totale crediti imposta"
+  },
+  {
+    "count": 1,
+    "section": "LM037",
+    "column": "005",
+    "description": "Perdite pregresse -di cui Misura piena"
+  },
+  {
+    "count": 1,
+    "section": "LM005",
+    "column": "001",
+    "description": "Commi 91 e 92, L. 208/2015"
+  },
+  {
+    "count": 1,
+    "section": "LM009",
+    "column": "002",
+    "description": "Perdite pregresse-di cui Misura Piena"
+  }
+]

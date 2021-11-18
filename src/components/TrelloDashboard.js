@@ -2,10 +2,8 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 
 export const TrelloDashboard = () => {
-  const TRELLO_TOKEN ="262f10ddc7962d28d4b472bc17c46e39c069a401a54abc269014c209f378f83e";
-  const TRELLO_KEY = "42cd6a54f624ac7948e46f5198e4a94b";
-  const TRELLO_BOARD = "0retKS6l"
-  const baseURL = `https://api.trello.com/1/boards/${TRELLO_BOARD}/cards?key=${TRELLO_KEY}&token=${TRELLO_TOKEN}`
+
+  const baseURL = `https://api.trello.com/1/boards/${process.env.REACT_APP_TRELLO_BOARD}/cards?key=${process.env.REACT_APP_TRELLO_KEY}&token=${process.env.REACT_APP_TRELLO_TOKEN}`
 
   let listName;
  
@@ -22,11 +20,8 @@ export const TrelloDashboard = () => {
   let splitByCard = groupByKey(cards, "idList");
 
   useEffect(() => {
-
     axios.get(baseURL).then((response) => {
-      // setPost(response.data);
       setCards(response.data)
-
       });
   }, []);
 

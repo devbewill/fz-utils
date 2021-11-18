@@ -1,0 +1,1451 @@
+[
+  {
+    "field": "TR018001",
+    "description": "Descrizione attività/passività",
+    "type": "AN",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR018002",
+    "description": "Valore attivita",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR018003",
+    "description": "Valore passività",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR018004",
+    "description": "N. mod",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR019001",
+    "description": "Descrizione attività/passività",
+    "type": "AN",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR019002",
+    "description": "Valore attività",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR019003",
+    "description": "Valore passività",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR019004",
+    "description": "N. mod",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR020001",
+    "description": "Descrizione attività/passività",
+    "type": "AN",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR020002",
+    "description": "Valore attività",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR020003",
+    "description": "Valore passività",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "TR020004",
+    "description": "N. mod",
+    "type": "NP",
+    "possible_value": "",
+    "mono": "",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO001001",
+    "description": "Opzione art.19 bis 2 – comma 4",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO002001",
+    "description": "Opzione art.7",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO002002",
+    "description": "Revoca art.7",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO003001",
+    "description": "Rinuncia art.34, comma 6",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO003002",
+    "description": "Revoca art.34, comma 6",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO003003",
+    "description": "Opzione art.34, comma 11",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO003004",
+    "description": "Revoca art.34, comma 11",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO003005",
+    "description": "Opzione art.34 bis",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO003006",
+    "description": "Revoca art.34 bis",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO004001",
+    "description": "Opzione art.36, comma 3",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO004002",
+    "description": "Revoca art.36, comma 3",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO005001",
+    "description": "Opzione art.36-bis",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO005002",
+    "description": "Revoca art.36-bis",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO006001",
+    "description": "Opzione art.74, comma 1",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO006002",
+    "description": "Revoca art.74, comma 1",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO007001",
+    "description": "Opzione art.74, comma 6",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO007002",
+    "description": "Revoca art.74, comma 6",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO008001",
+    "description": "Opzione acquisti intracomunitari",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO008002",
+    "description": "Revoca acquisti intracomunitari",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO009001",
+    "description": "Opzione cessione beni usati art.36 D.L. 41/1995, comma 2",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO009002",
+    "description": "Opzione cessione beni usati art.36 D.L. 41/1995, comma 3",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO009003",
+    "description": "Opzione cessione beni usati art.36 D.L. 41/1995, comma 6",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO009004",
+    "description": "Revoca cessione beni usati art.36 D.L. 41/1995, comma 2",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO009005",
+    "description": "Revoca cessione beni usati art.36 D.L. 41/1995, comma 6",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010001",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Belgio",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010002",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Germania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010003",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Danimarca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010004",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Grecia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010005",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Spagna",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010006",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Francia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010007",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Gran Bretagna",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010008",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Irlanda",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010009",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi – Lussemburgo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010010",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Olanda",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010011",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Portogallo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010012",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - San Marino",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010013",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Austria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010014",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Finlandia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010015",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Svezia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010016",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Cipro",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010017",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Estonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010018",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Lituania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010019",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Lettonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010020",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Malta",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010021",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Polonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010022",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Repubblica Ceca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010023",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Slovacchia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010024",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Slovenia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010025",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Ungheria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010026",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Bulgaria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010027",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Romania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO010028",
+    "description": "Opzione cessioni intracomunitarie in base a cataloghi - Croazia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011001",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Belgio",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011002",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Germania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011003",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Danimarca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011004",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Grecia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011005",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Spagna",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011006",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Francia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011007",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Gran Bretagna",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011008",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Irlanda",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011009",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Lussemburgo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011010",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Olanda",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011011",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Portogallo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011012",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - San Marino",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011013",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Austria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011014",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Finlandia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011015",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Svezia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011016",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Cipro",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011017",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Estonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011018",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Lituania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011019",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Lettonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011020",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Malta",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011021",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Polonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011022",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Repubblica Ceca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011023",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Slovacchia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011024",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Slovenia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011025",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Ungheria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011026",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Bulgaria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011027",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Romania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO011028",
+    "description": "Revoca cessioni intracomunitarie in base a cataloghi - Croazia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO012001",
+    "description": "Opzione contribuenti con contabilità presso terzi",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO012002",
+    "description": "Revoca contribuenti con contabilità presso terzi",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO013001",
+    "description": "Opzione singola operazione per le cessioni di oro da investimento da parte del cedente",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO013002",
+    "description": "Opzione tutte le operazioni per le cessioni di oro da investimento da parte del cedente",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO013003",
+    "description": "Revoca tutte le operazioni per le cessioni di oro da investimento da parte del cedente",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO013004",
+    "description": "Opzione singola operazione per le cessioni di oro da investimento da parte dell'intermediario",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO014001",
+    "description": "Opzione per l'applicazione del regime ordinario per spettacoli viaggianti e contribuenti minori",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO014002",
+    "description": "Revoca per l'applicazione del regime ordinario per spettacoli viaggianti e contribuenti minori",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO015001",
+    "description": "Opzione per l'applicazione del regime IVA per cassa",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO015002",
+    "description": "Revoca per l'applicazione del regime IVA per cassa",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016001",
+    "description": "Opzione vendita tramite strumenti elettronici – Belgio",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016002",
+    "description": "Opzione vendita tramite strumenti elettronici – Germania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016003",
+    "description": "Opzione vendita tramite strumenti elettronici – Danimarca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016004",
+    "description": "Opzione vendita tramite strumenti elettronici – Grecia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016005",
+    "description": "Opzione vendita tramite strumenti elettronici – Spagna",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016006",
+    "description": "Opzione vendita tramite strumenti elettronici – Francia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016007",
+    "description": "Opzione vendita tramite strumenti elettronici – Gran Bretagna",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016008",
+    "description": "Opzione vendita tramite strumenti elettronici – Irlanda",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016009",
+    "description": "Opzione vendita tramite strumenti elettronici – Lussemburgo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016010",
+    "description": "Opzione vendita tramite strumenti elettronici – Olanda",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016011",
+    "description": "Opzione vendita tramite strumenti elettronici – Portogallo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016012",
+    "description": "Opzione vendita tramite strumenti elettronici – San Marino",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016013",
+    "description": "Opzione vendita tramite strumenti elettronici – Austria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016014",
+    "description": "Opzione vendita tramite strumenti elettronici – Finlandia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016015",
+    "description": "Opzione vendita tramite strumenti elettronici – Svezia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016016",
+    "description": "Opzione vendita tramite strumenti elettronici – Cipro",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016017",
+    "description": "Opzione vendita tramite strumenti elettronici – Estonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016018",
+    "description": "Opzione vendita tramite strumenti elettronici – Lituania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016019",
+    "description": "Opzione vendita tramite strumenti elettronici – Lettonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016020",
+    "description": "Opzione vendita tramite strumenti elettronici – Malta",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016021",
+    "description": "Opzione vendita tramite strumenti elettronici – Polonia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016022",
+    "description": "Opzione vendita tramite strumenti elettronici – Repubblica Ceca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016023",
+    "description": "Opzione vendita tramite strumenti elettronici – Slovacchia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016024",
+    "description": "Opzione vendita tramite strumenti elettronici – Slovenia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016025",
+    "description": "Opzione vendita tramite strumenti elettronici – Ungheria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016026",
+    "description": "Opzione vendita tramite strumenti elettronici – Bulgaria",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016027",
+    "description": "Opzione vendita tramite strumenti elettronici – Romania",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO016028",
+    "description": "Opzione vendita tramite strumenti elettronici – Croazia",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO020001",
+    "description": "Opzione regime di contabilità ordinaria imprese minori",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO020002",
+    "description": "Revoca regime di contabilità ordinaria imprese minori",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO021001",
+    "description": "Opzione regime di contabilità ordinaria per esercenti arti e professioni",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO021002",
+    "description": "Revoca regime di contabilità ordinaria per esercenti arti e professioni",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO022001",
+    "description": "Opzione per la determinazione del reddito nei modi ordinari per le altre attività agricole",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO022002",
+    "description": "Revoca per la determinazione del reddito nei modi ordinari per le altre attività agricole",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO023001",
+    "description": "Opzione del reddito agrario per le società agricole",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO023002",
+    "description": "Revoca del reddito agrario per le società agricole",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO024001",
+    "description": "Opzione per la determinazione del reddito per le società costituite da imprenditori agricoli",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO024002",
+    "description": "Revoca per la determinazione del reddito per le società costituite da imprenditori agricoli",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO025001",
+    "description": "Opzione per la determinazione del reddito nei modi ordinari per le attività agricole connesse",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO025002",
+    "description": "Revoca per la determinazione del reddito nei modi ordinari per le attività di produzione di energia da fonti rinnovabili",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO026001",
+    "description": "Tenuta dei registri IVA senza separata indicazione degli incassi e dei pagamenti per le imprese minori",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO026002",
+    "description": "Tenuta dei registri IVA senza separata indicazione degli incassi e dei pagamenti per le imprese minori - Revoca dell'opzione",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO030001",
+    "description": "Opzione applicazione disposizioni legge n. 389/1991",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO030002",
+    "description": "Revoca applicazione disposizioni legge n. 389/1991",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "Non può essere maggiore di CR011004",
+    "strong_check": ""
+  },
+  {
+    "field": "VO031001",
+    "description": "Opzione associazioni sindacali operanti in agricoltura",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO031002",
+    "description": "Revoca associazioni sindacali operanti in agricoltura",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO032001",
+    "description": "Opzione agriturismo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO032002",
+    "description": "Revoca agriturismo",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO033001",
+    "description": "Regime forfetario per le persone fisiche esercenti attività d'impresa, arti o professioni - Determinazione Iva e reddito nei modi ordinari - opzione",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO033002",
+    "description": "Regime forfetario per le persone fisiche esercenti attività d'impresa, arti o professioni - Determinazione Iva e reddito nei modi ordinari - revoca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "Non può essere presente se CR031001 assume valori diversi da 3",
+    "strong_check": ""
+  },
+  {
+    "field": "VO034001",
+    "description": "Regime fiscale di vantaggio per l'imprenditoria giovanile e lavoratori in mobilità - opzione",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO034002",
+    "description": "Regime fiscale di vantaggio per l'imprenditoria giovanile e lavoratori in mobilità - revoca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO034003",
+    "description": "Regime fiscale di vantaggio per l'imprenditoria giovanile e lavoratori in mobilità - revoca",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO035001",
+    "description": "Attivita' enoturistica - opzione",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO036001",
+    "description": "Attivita' oleoturistica - opzione",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO040001",
+    "description": "Opzione applicazione imposta sugli intrattenimenti nei modi ordinari",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO040002",
+    "description": "Revoca applicazione imposta sugli intrattenimenti nei modi ordinari",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO050001",
+    "description": "Opzione per la determinazione della base imponibile IRAP da parte dei soggetti pubblici che esercitano anche attività commerciali",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": ""
+  },
+  {
+    "field": "VO050002",
+    "description": "Revoca per la determinazione della base imponibile IRAP da parte dei soggetti pubblici che esercitano anche attività commerciali",
+    "type": "CB",
+    "possible_value": "",
+    "mono": "SI",
+    "easy_check": "",
+    "strong_check": "Il campo è obbligatorio se CR031001 è uguale a6"
+  }
+]

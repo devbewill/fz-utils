@@ -1,0 +1,272 @@
+{
+  "fiscal_elements": [
+    {
+      "code": "DCICF",
+      "value": "1"
+    },
+    {
+      "code": "RG16.0",
+      "value": "0.00"
+    },
+    {
+      "code": "RG22.98",
+      "value": "0.00"
+    },
+    {
+      "code": "RC00.3",
+      "value": "0"
+    },
+    {
+      "code": "FA7.1",
+      "value": "0"
+    },
+    {
+      "code": "FA9.1",
+      "value": "0"
+    },
+    {
+      "code": "FA01.01",
+      "value": "C"
+    },
+    {
+      "code": "FA01.05",
+      "value": "RCRFNC78H21A662L"
+    },
+    {
+      "code": "SC5.3",
+      "value": "1"
+    },
+    {
+      "code": "SC5.4",
+      "value": "04879781005"
+    },
+    {
+      "code": "DC47",
+      "value": "0"
+    },
+    {
+      "code": "DC140",
+      "value": "1"
+    },
+    {
+      "code": "LM20",
+      "value": "2"
+    },
+    {
+      "code": "LM21.3",
+      "value": "1"
+    },
+    {
+      "code": "LM34.1",
+      "value": "0.00"
+    },
+    {
+      "code": "LM34.2",
+      "value": "0.00"
+    },
+    {
+      "code": "LM35.1",
+      "value": "1813.00"
+    },
+    {
+      "ateco": "86.90.30",
+      "code": "RG2.2",
+      "value": "30246.89"
+    },
+    {
+      "code": "RG10.28",
+      "value": "600.00"
+    },
+    {
+      "code": "CAA00",
+      "value": "0.00|0.00||"
+    },
+    {
+      "code": "CAA01",
+      "value": "0.00|0.00||10"
+    },
+    {
+      "code": "CAA02",
+      "value": "0.00|0.00||10"
+    },
+    {
+      "code": "CAA08",
+      "value": "0.00|0.00||10"
+    },
+    {
+      "code": "CAA14",
+      "value": "427.00|427.00||"
+    },
+    {
+      "code": "CAA16",
+      "value": "0.00|0.00||"
+    },
+    {
+      "code": "CAA17",
+      "value": "0.00|0.00||"
+    },
+    {
+      "code": "CAA18",
+      "value": "0.00|0.00||"
+    },
+    {
+      "code": "CAA20",
+      "value": "0.00|0.00||"
+    },
+    {
+      "code": "CAC00",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC01",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC02",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC03",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC04",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC05",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC06",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC07",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC08",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC09",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC10",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC11",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC12",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC13",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC14",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC15",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC16",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC17",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC18",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC19",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC20",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC21",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC22",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC23",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC24",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC25",
+      "value": "0.00|0.00||||"
+    },
+    {
+      "code": "CAC33",
+      "value": "0.00|0.00||10||"
+    },
+    {
+      "code": "CAC39",
+      "value": "0.00|0.00||10||"
+    }
+  ],
+  "not_applied_deductions_to_professionals": [
+    {
+      "amount": "48.08",
+      "ssn": "ELUVFL22G27V556U"
+    }
+  ],
+  "ref_year": "2020",
+  "rules": {
+    "delete": [
+      "WDS740RS",
+      "WDS740RG",
+      "WDS740RW",
+      "WDS740RRA",
+      "WDSUPFVIC",
+      "WDS740RR",
+      "WDS740RU",
+      "WDS740IIACC",
+      "WDS740VO",
+      "WDS740RQ",
+      "WDS740NR",
+      "WDS740RRII",
+      "WDSUPFBIL",
+      "WDSUPFDI",
+      "WDS740RT",
+      "WDS740REC",
+      "WDS740RH",
+      "WDS740CRE",
+      "WDS740RE",
+      "WDS740RSCFC",
+      "WDS740RC",
+      "WDS740RL",
+      "WDS740RP",
+      "WDS740IP",
+      "WDSSTUIMP",
+      "WDS740RRC",
+      "WDSSTUAUT",
+      "WDS740RSV",
+      "WDSUPFCanone",
+      "WDS740RM"
+    ],
+    "empty": ["WDSUPFAIUT"]
+  },
+  "user_ssn": "OPPAVG25F65J962Y"
+}
