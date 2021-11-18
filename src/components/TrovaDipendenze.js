@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import data from "./data";
+import data from "../json/data";
 
 export const TrovaDipendenze = () => {
   useEffect(() => {}, []);

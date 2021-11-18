@@ -1,5 +1,5 @@
 import React, {useState, useEffect} from 'react';
-import data from "./quadroLMfz";
+import data from "../json/quadroLMfz";
 
 export  const FetchQuadro = () => {
   const [loading,setLoading] = useState(true)

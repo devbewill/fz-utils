@@ -1,6 +1,6 @@
 import React from "react";
 // import data from "./campiGrid.json";
-import data from "./quadroLMfz.json";
+import data from "../json/quadroLMfz.json";
 
 export const FormGenerator = () => {
   const refactorObj = Object.values(

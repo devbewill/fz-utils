@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import data from "./campiGrid.json";
+import data from "../json/campiGrid.json";
 
 export const ReduceExample = () => {
   // const refactorObj = data.reduce(function (acc, item) {

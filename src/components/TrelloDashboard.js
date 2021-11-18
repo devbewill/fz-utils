@@ -1,8 +1,11 @@
 import React, { useState, useEffect } from "react";
 
 export const TrelloDashboard = () => {
+  const TRELLO_TOKEN =
+    "262f10ddc7962d28d4b472bc17c46e39c069a401a54abc269014c209f378f83e";
+  const TRELLO_KEY = "42cd6a54f624ac7948e46f5198e4a94b";
   const Trello = require("trello-web");
-  const trello = new Trello("42cd6a54f624ac7948e46f5198e4a94b");
+  const trello = new Trello(TRELLO_KEY);
   const [lists, setLists] = useState([]);
   const [cards, setCards] = useState([]);
 

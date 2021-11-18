@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
-import data from "./trattamentiMida.json";
-import dataDesc from "./trattamentiMidaDescription.json";
+import data from "../json/trattamentiMida.json";
+import dataDesc from "../json/trattamentiMidaDescription.json";
 
 export const TrattamentiMida = () => {
   const [loading, setLoading] = useState(true);

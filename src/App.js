@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 // import './App.css';
 import "./style.scss";
-import { Home } from "./Home";
-import { ParserQuadri } from "./ParserQuadri";
-import { FormGenerator } from "./FormGenerator";
-import { TrovaDipendenze } from "./TrovaDipendenze";
-import { TrattamentiMida } from "./TrattamentiMida";
-import { TrelloDashboard } from "./TrelloDashboard";
+import { Home } from "./components/Home";
+import { ParserQuadri } from "./components/ParserQuadri";
+import { FormGenerator } from "./components/FormGenerator";
+import { TrovaDipendenze } from "./components/TrovaDipendenze";
+import { TrattamentiMida } from "./components/TrattamentiMida";
+import { TrelloDashboard } from "./components/TrelloDashboard";
 // import {FetchQuadro} from './FetchQuadro';
 // import { ReduceExample } from './ReduceExample';
 

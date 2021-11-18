@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import data from "./data";
+import data from "../json/data";
 
 export const Parser = () => {
   const [countStrong, setCountStrong] = useState(0);
